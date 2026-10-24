@@ -5,9 +5,11 @@ description: Turns a student's notes, slides or Canvas materials into a 30 to 90
 
 # Recap Reel
 
-Make a short, narrated study video a student actually wants to watch: a title card, one scene per key idea with
-its points appearing as they're said, captions timed to the voice, and a progress bar. Cubbie can't make video on
-its own; this Skill's script does, with a free offline voice and ffmpeg.
+Make a short, narrated study video a student actually wants to watch, in a clean editorial style: a title card,
+one numbered scene per key idea with its points appearing and highlighting as they're explained, an optional big
+"key fact", captions that underline each word as it's spoken, a segmented progress bar, and a closing recap
+checklist that ticks off every idea. Cubbie can't make video on its own; this Skill's script does, with a free
+offline voice, the bundled Inter font and ffmpeg.
 
 ## When to use
 
@@ -43,11 +45,12 @@ the same voices folder.
 
    ```json
    {"title": "Cells in 60 Seconds", "course": "BIO 181", "intro": "...",
-    "scenes": [{"heading": "Mitochondria", "points": ["Make ATP", "Own DNA"], "narration": "..."}],
+    "scenes": [{"heading": "Mitochondria", "points": ["Make ATP", "Own DNA"], "key": "ATP", "narration": "..."}],
     "outro": "Save this for exam night."}
    ```
 
-   About 150 spoken words per minute in total; 3 to 6 scenes; at most 3 short points per scene.
+   About 150 spoken words per minute in total; 3 to 6 scenes; at most 3 short points per scene. `key` is optional:
+   the one number or term worth remembering from that scene. The closing recap is added automatically.
 
 4. **Make the video.** From this Skill folder:
 
@@ -55,7 +58,7 @@ the same voices folder.
    ~/.local/share/venvs/recap-reel/bin/python scripts/reel.py --script /workspace/reel.json --out /workspace/your_files/reel/<short-name>.mp4
    ```
 
-   A 60-second video takes about a minute to make. It prints JSON with `mp4`, `cover` (the title frame as a PNG),
+   A 60-second video takes about two minutes to make. It prints JSON with `mp4`, `cover` (the title frame as a PNG),
    `seconds` and `scenes`.
 
 5. **Send it.** Send the MP4 with one line ("62 sec recap of cell bio, 4 key ideas."). Mention once that it's

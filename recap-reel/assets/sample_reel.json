@@ -6,6 +6,7 @@
     {
       "heading": "Mitochondria",
       "points": ["Make ATP", "Run cellular respiration", "Have their own DNA"],
+      "key": "ATP",
       "narration": "Mitochondria make ATP, the energy cells spend. They do it through cellular respiration, and they even carry their own small loop of DNA."
     },
     {
@@ -16,6 +17,7 @@
     {
       "heading": "Ribosomes",
       "points": ["Build proteins", "Read mRNA"],
+      "key": "3 bases = 1 codon",
       "narration": "Ribosomes build proteins by reading messenger RNA, one codon at a time."
     }
   ],
