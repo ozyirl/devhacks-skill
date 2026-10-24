@@ -75,6 +75,51 @@ def looks_ready(body: str) -> bool:
     return bool(JR_RE.search(body) or "job profile" in body.lower() or "selectedItem_" in body)
 
 
+def job_from_list_row(extra: str, inst: str = "") -> dict[str, Any] | None:
+    extra = re.sub(r"\s+", " ", extra or "").strip()
+    jr_m = JR_RE.search(extra)
+    if not jr_m:
+        return None
+    jr = jr_m.group(0)
+    campus_m = re.search(r"Campus:\s*([^|]+)", extra, re.I)
+    loc_m = re.search(r"Off-Campus:\s*([^|]+)", extra, re.I)
+    if campus_m:
+        campus = campus_of("Campus: " + campus_m.group(1))
+    elif loc_m:
+        campus = campus_of("Off-Campus: " + loc_m.group(1))
+    else:
+        campus = ""
+    title = extra.split(jr, 1)[0]
+    title = re.sub(r"[\s|]+$", "", title).strip(" |-")
+    if not title or title == jr:
+        after = extra.split(jr, 1)[-1]
+        title = re.split(r"\s*\|\s*", after, maxsplit=1)[0].strip(" |-")
+        if title.lower().startswith("campus:"):
+            title = jr
+    end_m = re.search(r"Posting Date:\s*([0-9/]+)", extra, re.I)
+    sm = SCALE.search(extra)
+    lo, hi = parse_pay(extra)
+    job: dict[str, Any] = {
+        "jr": jr,
+        "title": (title or jr)[:160],
+        "campus": campus,
+        "hybrid": "hybrid" in extra.lower(),
+        "job_profile": "",
+        "worker_scale": sm.group(1).upper() if sm else "",
+        "funding": "",
+        "posting_end_date": end_m.group(1) if end_m else "",
+        "pay_text": "",
+        "list_text": extra[:400],
+    }
+    if inst:
+        job["inst"] = inst
+    if lo is not None:
+        job["pay_min"] = lo
+    if hi is not None:
+        job["pay_max"] = hi
+    return job
+
+
 def job_from_posting(text: str, url: str = "") -> dict[str, Any] | None:
     jr_m = JR_RE.search(text) or JR_RE.search(url)
     if not jr_m:
@@ -130,23 +175,23 @@ def extract_list_items(page) -> list[dict[str, str]]:
     return page.evaluate(
         """() => {
           const seen = new Map();
-          const add = (inst, jr, title, extra) => {
-            const key = jr || inst || title;
-            if (!key || seen.has(key)) return;
-            seen.set(key, {inst: inst || '', jr: jr || '', title: title || '', extra: extra || ''});
+          const add = (inst, jr, extra) => {
+            const key = jr || inst;
+            if (!key) return;
+            const prev = seen.get(key);
+            if (!prev || extra.length > (prev.extra || '').length) {
+              seen.set(key, {inst: inst || '', jr: jr || '', title: extra.slice(0, 200), extra});
+            }
           };
-          for (const n of document.querySelectorAll('[id^="selectedItem_"]')) {
-            const inst = n.id.replace(/^selectedItem_/, '');
-            const t = (n.innerText || '').replace(/\\s+/g, ' ').trim();
+          const nodes = document.querySelectorAll(
+            '[id^="selectedItem_"], [data-automation-id="compositeContainer"], [data-automation-id="compositeSubHeaderOne"]'
+          );
+          for (const n of nodes) {
+            const host = n.closest('[id^="selectedItem_"]') || n;
+            const inst = (host.id || '').replace(/^selectedItem_/, '');
+            const t = (host.innerText || n.innerText || '').replace(/\\s+/g, ' ').trim();
             const jr = (t.match(/JR\\d{5,}/) || [''])[0];
-            add(inst, jr, t.slice(0, 200), t);
-          }
-          for (const n of document.querySelectorAll('[data-automation-id="compositeSubHeaderOne"], [data-automation-id="promptOption"]')) {
-            const t = (n.innerText || '').replace(/\\s+/g, ' ').trim();
-            const jr = (t.match(/JR\\d{5,}/) || [''])[0];
-            const host = n.closest('[id^="selectedItem_"]');
-            const inst = host ? host.id.replace(/^selectedItem_/, '') : '';
-            add(inst, jr, t.slice(0, 160), t);
+            add(inst, jr, t);
           }
           return Array.from(seen.values());
         }"""
@@ -343,18 +388,8 @@ def scrape(out: Path, wait_login: int, details: bool, max_jobs: int) -> dict[str
         else:
             for item in items:
                 extra = item.get("extra") or item.get("title") or ""
-                job = job_from_posting(extra) or {
-                    "jr": item.get("jr") or "",
-                    "title": (item.get("title") or "").split("|")[0].strip()[:160],
-                    "campus": "",
-                    "hybrid": False,
-                    "job_profile": "",
-                    "worker_scale": "",
-                    "funding": "",
-                    "posting_end_date": "",
-                    "pay_text": "",
-                }
-                if job.get("jr") and job["jr"] not in seen:
+                job = job_from_list_row(extra, item.get("inst") or "") or job_from_posting(extra)
+                if job and job.get("jr") and job["jr"] not in seen:
                     seen.add(job["jr"])
                     jobs.append(job)
 
