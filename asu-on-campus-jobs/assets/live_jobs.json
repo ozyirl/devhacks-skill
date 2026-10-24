@@ -13,8 +13,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/23/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/23/2026"
     },
     {
       "jr": "JR128632",
@@ -24,8 +24,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/23/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/23/2026"
     },
     {
       "jr": "JR128521",
@@ -35,8 +35,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/23/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/23/2026"
     },
     {
       "jr": "JR123176",
@@ -46,10 +46,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/23/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "10/23/2026"
     },
     {
       "jr": "JR128422",
@@ -59,8 +59,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/23/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/23/2026"
     },
     {
       "jr": "JR128625",
@@ -70,8 +70,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/22/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/22/2026"
     },
     {
       "jr": "JR128186",
@@ -81,11 +81,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/22/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The School of Civic and Economic Thought and Leadership (SCETL) is seeking multiple confident, energetic, attentive individuals to serve as representatives of SCETL at university-wide events designed to recruit new SCETL students and their families. Ambassadors share their experiences as students in the program and provide information and advice about succeeding in the program. This is a professional development opportunity for students passionate about politics and community engagement. Ambassadors represent the School at SCETL events, info sessions, and recruitment and outreach tabling to build leadership and professional skills. | Days and Schedule: In-person, up to 10 hours per week. Most of the work takes place during tabling events and SCETL-organized events, held Tuesdays through..."
+      "summary": "The School of Civic and Economic Thought and Leadership (SCETL) is seeking multiple confident, energetic, attentive individuals to serve as representatives of SCETL at university-wide events designed to recruit new SCETL students and their families. Ambassadors share their experiences as students in the program and provide information and advice about succeeding in the program. This is a professional development opportunity for students passionate about politics and community engagement. Ambassadors represent the School at SCETL events, info sessions, and recruitment and outreach tabling to build leadership and professional skills. | Days and Schedule: In-person, up to 10 hours per week. Most of the work takes place during tabling events and SCETL-organized events, held Tuesdays through...",
+      "posting_date": "10/22/2026"
     },
     {
       "jr": "JR128615",
@@ -95,8 +95,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/22/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/22/2026"
     },
     {
       "jr": "JR120054",
@@ -106,8 +106,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/22/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/22/2026"
     },
     {
       "jr": "JR128595",
@@ -117,8 +117,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128612",
@@ -128,8 +128,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128590",
@@ -139,8 +139,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128591",
@@ -150,8 +150,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128611",
@@ -161,8 +161,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128594",
@@ -172,8 +172,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128596",
@@ -183,8 +183,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128586",
@@ -194,8 +194,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128566",
@@ -205,8 +205,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128563",
@@ -216,8 +216,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128509",
@@ -227,8 +227,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128574",
@@ -238,8 +238,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128467",
@@ -249,8 +249,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/21/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/21/2026"
     },
     {
       "jr": "JR128536",
@@ -260,8 +260,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128526",
@@ -271,8 +271,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128568",
@@ -282,8 +282,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128552",
@@ -293,8 +293,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128551",
@@ -304,8 +304,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128544",
@@ -315,8 +315,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/20/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/20/2026"
     },
     {
       "jr": "JR128259",
@@ -326,10 +326,10 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/19/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
-      "pay_max": 15.1
+      "pay_max": 15.1,
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128530",
@@ -339,8 +339,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128469",
@@ -350,8 +350,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR127870",
@@ -361,8 +361,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128519",
@@ -372,8 +372,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128477",
@@ -383,8 +383,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR123684",
@@ -394,8 +394,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR118980",
@@ -405,8 +405,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128476",
@@ -416,8 +416,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128478",
@@ -427,8 +427,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR125380",
@@ -438,8 +438,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128286",
@@ -449,8 +449,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR128365",
@@ -460,8 +460,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/19/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/19/2026"
     },
     {
       "jr": "JR118179",
@@ -471,8 +471,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/16/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/16/2026"
     },
     {
       "jr": "JR128464",
@@ -482,8 +482,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/16/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/16/2026"
     },
     {
       "jr": "JR128455",
@@ -493,8 +493,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/16/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/16/2026"
     },
     {
       "jr": "JR128426",
@@ -504,8 +504,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128414",
@@ -515,8 +515,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR119017",
@@ -526,8 +526,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR117693",
@@ -537,8 +537,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128410",
@@ -548,8 +548,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128381",
@@ -559,8 +559,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128292",
@@ -570,8 +570,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128291",
@@ -581,8 +581,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/15/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/15/2026"
     },
     {
       "jr": "JR128377",
@@ -592,8 +592,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128328",
@@ -603,8 +603,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128330",
@@ -614,8 +614,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128331",
@@ -625,8 +625,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128333",
@@ -636,8 +636,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128345",
@@ -647,8 +647,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128337",
@@ -658,8 +658,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128347",
@@ -669,8 +669,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128349",
@@ -680,8 +680,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128366",
@@ -691,8 +691,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128327",
@@ -702,8 +702,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128357",
@@ -713,8 +713,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR128351",
@@ -724,8 +724,8 @@
       "job_profile": "",
       "worker_scale": "",
       "funding": "",
-      "posting_end_date": "10/14/2026",
-      "pay_text": ""
+      "pay_text": "",
+      "posting_date": "10/14/2026"
     },
     {
       "jr": "JR117989",
@@ -735,11 +735,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/13/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Work Schedule: | 18-20 hours per week"
+      "summary": "Work Schedule: | 18-20 hours per week",
+      "posting_date": "10/13/2026"
     },
     {
       "jr": "JR128252",
@@ -749,11 +749,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/13/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Students with schedule availability outside of 8 am to 5 pm Monday through Friday will not be considered. | The ASU Knowledge Enterprise Financial Services office operates from 8am to 5pm, Monday through Friday."
+      "summary": "Students with schedule availability outside of 8 am to 5 pm Monday through Friday will not be considered. | The ASU Knowledge Enterprise Financial Services office operates from 8am to 5pm, Monday through Friday.",
+      "posting_date": "10/13/2026"
     },
     {
       "jr": "JR128275",
@@ -763,11 +763,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/13/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Peer Advisors work in collaboration with Enrollment & Engagement staff and Academic Advisors to advise and assist incoming W. P. Carey School of Business students throughout ASU\u2019s New Student Orientation Programs. Peer Advisors will assist in the course selection process, clarify requirements, and serve as role models for incoming first-year students. Peer Advisors will be responsible for leading orientation webinars and working with small groups of students during the orientation programs. As a leadership opportunity within the W. P. Carey School of Business, Peer Advisors learn and apply these skills to help incoming students feel a part of the greater ASU business community. Training for Peer Advisors will be provided through a 1-credit course (WPC 394) on Fridays from 10:30 am to 1:..."
+      "summary": "Peer Advisors work in collaboration with Enrollment & Engagement staff and Academic Advisors to advise and assist incoming W. P. Carey School of Business students throughout ASU\u2019s New Student Orientation Programs. Peer Advisors will assist in the course selection process, clarify requirements, and serve as role models for incoming first-year students. Peer Advisors will be responsible for leading orientation webinars and working with small groups of students during the orientation programs. As a leadership opportunity within the W. P. Carey School of Business, Peer Advisors learn and apply these skills to help incoming students feel a part of the greater ASU business community. Training for Peer Advisors will be provided through a 1-credit course (WPC 394) on Fridays from 10:30 am to 1:...",
+      "posting_date": "10/13/2026"
     },
     {
       "jr": "JR127984",
@@ -777,11 +777,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/12/2026",
       "pay_text": "Pay rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Ideally looking for undergrad students with at least two years remaining at ASU with the ability to work 12-20 hours during the semester."
+      "summary": "Ideally looking for undergrad students with at least two years remaining at ASU with the ability to work 12-20 hours during the semester.",
+      "posting_date": "10/12/2026"
     },
     {
       "jr": "JR128254",
@@ -791,10 +791,10 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/12/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
-      "pay_max": 15.1
+      "pay_max": 15.1,
+      "posting_date": "10/12/2026"
     },
     {
       "jr": "JR128204",
@@ -804,9 +804,9 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "Grant Funded",
-      "posting_end_date": "10/12/2026",
       "pay_text": "STIPEND: $10,800 and may be eligible for additional AmeriCorps benefits.",
-      "summary": "A skilled and organized individual will be responsible for maintaining programmatic support to the Experience Matters AmeriCorps Program Director. In this role, they will aid in the development and facilitation of additional training and continuous learning events for AmeriCorps members, transform member testimonials into social media posts and inspiring stories, and help fortify the program's ability to continue meeting its goals and serving its constituents through capacity-building initiatives. | Program Development | Work is to be performed during business hours of 8:00 am to 5:00 pm, Monday through Friday."
+      "summary": "A skilled and organized individual will be responsible for maintaining programmatic support to the Experience Matters AmeriCorps Program Director. In this role, they will aid in the development and facilitation of additional training and continuous learning events for AmeriCorps members, transform member testimonials into social media posts and inspiring stories, and help fortify the program's ability to continue meeting its goals and serving its constituents through capacity-building initiatives. | Program Development | Work is to be performed during business hours of 8:00 am to 5:00 pm, Monday through Friday.",
+      "posting_date": "10/12/2026"
     },
     {
       "jr": "JR128152",
@@ -816,10 +816,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/12/2026",
       "pay_text": "Pay Rate: $17.00 per hour",
       "pay_min": 17.0,
-      "pay_max": 17.0
+      "pay_max": 17.0,
+      "posting_date": "10/12/2026"
     },
     {
       "jr": "JR128265",
@@ -829,10 +829,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/09/2026",
       "pay_text": "Pay Rate: $17.75 per hour",
       "pay_min": 17.75,
-      "pay_max": 17.75
+      "pay_max": 17.75,
+      "posting_date": "10/09/2026"
     },
     {
       "jr": "JR128197",
@@ -842,11 +842,11 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/09/2026",
       "pay_text": "Pay Rate: $14.70 per hour",
       "pay_min": 14.7,
       "pay_max": 14.7,
-      "summary": "As a part of the university's commitment to student employees, this role is built upon the ASU Work+ framework, ensuring an integrated working and learning experience which incorporates ongoing professional development, mentorship, and a focus on the growth of career competencies that will enhance your career readiness."
+      "summary": "As a part of the university's commitment to student employees, this role is built upon the ASU Work+ framework, ensuring an integrated working and learning experience which incorporates ongoing professional development, mentorship, and a focus on the growth of career competencies that will enhance your career readiness.",
+      "posting_date": "10/09/2026"
     },
     {
       "jr": "JR104850",
@@ -856,9 +856,9 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/09/2026",
       "pay_text": "",
-      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN\u00a0 will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. | Can work an average of 8-20 hours per week.\u00a0 Hours of operation vary by site. | Engage with, create content for, and promote the Online Study Hub during work shifts and when interacting with students. | Should remote shifts be an option, remote shifts require access to reliable internet, a computer/laptop, and a quiet space. | Academic Support Network (ASN) is part ..."
+      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN\u00a0 will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. | Can work an average of 8-20 hours per week.\u00a0 Hours of operation vary by site. | Engage with, create content for, and promote the Online Study Hub during work shifts and when interacting with students. | Should remote shifts be an option, remote shifts require access to reliable internet, a computer/laptop, and a quiet space. | Academic Support Network (ASN) is part ...",
+      "posting_date": "10/09/2026"
     },
     {
       "jr": "JR127667",
@@ -868,10 +868,10 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "No Federal Funding",
-      "posting_end_date": "10/06/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
-      "pay_max": 15.1
+      "pay_max": 15.1,
+      "posting_date": "10/06/2026"
     },
     {
       "jr": "JR127994",
@@ -881,10 +881,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/05/2026",
       "pay_text": "Pay Range: $20.00 - $25.00 per hour, DOE",
       "pay_min": 20.0,
-      "pay_max": 25.0
+      "pay_max": 25.0,
+      "posting_date": "10/05/2026"
     },
     {
       "jr": "JR127718",
@@ -894,10 +894,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/01/2026",
       "pay_text": "Pay Rate: $17.00 per hour",
       "pay_min": 17.0,
-      "pay_max": 17.0
+      "pay_max": 17.0,
+      "posting_date": "10/01/2026"
     },
     {
       "jr": "JR127861",
@@ -907,11 +907,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/30/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Ability to work at least 12-20 hours per week. | Office hours are Monday through Friday, 8:00 am to 5:00 pm."
+      "summary": "Ability to work at least 12-20 hours per week. | Office hours are Monday through Friday, 8:00 am to 5:00 pm.",
+      "posting_date": "09/30/2026"
     },
     {
       "jr": "JR127720",
@@ -921,11 +921,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/29/2026",
       "pay_text": "Pay Rate: $15.97 - $18.97 per hour; DOE",
       "pay_min": 15.97,
       "pay_max": 18.97,
-      "summary": "The Walter Cronkite School of Journalism is seeking a candidate to fill the position of IT Assistant | AV Event Assistant to assist our CSIT Team in tasks all over the building, helping our staff and students with computer use and internet access as an IT Assistant. Also providing audiovisual support for Cronkite Events in the Cronkite Forum and throughout the building. Good communication and people skills are necessary. Must be motivated and a self-starter. Your quick response to calls and tasks at hand is important. Looking for applicants who can work flexible hours during the week and also nights and weekends. Experience with microphones and audio-video technology is welcome. Training will be provided."
+      "summary": "The Walter Cronkite School of Journalism is seeking a candidate to fill the position of IT Assistant | AV Event Assistant to assist our CSIT Team in tasks all over the building, helping our staff and students with computer use and internet access as an IT Assistant. Also providing audiovisual support for Cronkite Events in the Cronkite Forum and throughout the building. Good communication and people skills are necessary. Must be motivated and a self-starter. Your quick response to calls and tasks at hand is important. Looking for applicants who can work flexible hours during the week and also nights and weekends. Experience with microphones and audio-video technology is welcome. Training will be provided.",
+      "posting_date": "09/29/2026"
     },
     {
       "jr": "JR104929",
@@ -935,9 +935,9 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/28/2026",
       "pay_text": "",
-      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. Alongside Work+, becoming a tutor is a great way to develop a professional portfolio. As a tutor, you will gain valuable transferable skills such as: organizing and summarizing information; managing time, workload, and priorities; communicating ideas and information both verbally and through writing; and identifying problems and developing creative solutions. | Can wor..."
+      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. Alongside Work+, becoming a tutor is a great way to develop a professional portfolio. As a tutor, you will gain valuable transferable skills such as: organizing and summarizing information; managing time, workload, and priorities; communicating ideas and information both verbally and through writing; and identifying problems and developing creative solutions. | Can wor...",
+      "posting_date": "09/28/2026"
     },
     {
       "jr": "JR127592",
@@ -947,11 +947,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/28/2026",
       "pay_text": "Pay Rate: $15.97 per hour, up to 20 hours per week",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Pay Rate: $15.97 per hour, up to 20 hours per week | This is a part-time, hourly student position for up to 20 hours per week. The position is not eligible for benefits. | Assist faculty and the research team with software development and Information Systems research projects. | The position is open to undergraduate and graduate students, for up to 20 hours per week."
+      "summary": "Pay Rate: $15.97 per hour, up to 20 hours per week | This is a part-time, hourly student position for up to 20 hours per week. The position is not eligible for benefits. | Assist faculty and the research team with software development and Information Systems research projects. | The position is open to undergraduate and graduate students, for up to 20 hours per week.",
+      "posting_date": "09/28/2026"
     },
     {
       "jr": "JR126337",
@@ -961,10 +961,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/28/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "09/28/2026"
     },
     {
       "jr": "JR123626",
@@ -974,10 +974,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/23/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "09/23/2026"
     },
     {
       "jr": "JR118584",
@@ -987,10 +987,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/22/2026",
       "pay_text": "Pay Rate: $15.62 - $18.62 per hour; DOE",
       "pay_min": 15.62,
-      "pay_max": 18.62
+      "pay_max": 18.62,
+      "posting_date": "09/22/2026"
     },
     {
       "jr": "JR127342",
@@ -1000,8 +1000,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/16/2026",
-      "pay_text": "STIPEND: $1,500.00 paid at the end of the Semester"
+      "pay_text": "STIPEND: $1,500.00 paid at the end of the Semester",
+      "posting_date": "09/16/2026"
     },
     {
       "jr": "JR127341",
@@ -1011,8 +1011,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/16/2026",
-      "pay_text": "STIPEND: $1,500.00 paid at the end of the semester"
+      "pay_text": "STIPEND: $1,500.00 paid at the end of the semester",
+      "posting_date": "09/16/2026"
     },
     {
       "jr": "JR127372",
@@ -1022,8 +1022,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/16/2026",
-      "pay_text": "STIPEND: $7,500.00 paid at the end of the semester"
+      "pay_text": "STIPEND: $7,500.00 paid at the end of the semester",
+      "posting_date": "09/16/2026"
     },
     {
       "jr": "JR127356",
@@ -1033,11 +1033,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/15/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Utilize staff contact lists and departmental software to find coverage and subs for shifts | Willing to work early mornings, late nights, and/or weekend shifts"
+      "summary": "Utilize staff contact lists and departmental software to find coverage and subs for shifts | Willing to work early mornings, late nights, and/or weekend shifts",
+      "posting_date": "09/15/2026"
     },
     {
       "jr": "JR127302",
@@ -1047,11 +1047,11 @@
       "job_profile": "Student Worker III - Authorized Driver",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/15/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Demonstrate kindness and compassion at all times while on shift."
+      "summary": "Demonstrate kindness and compassion at all times while on shift.",
+      "posting_date": "09/15/2026"
     },
     {
       "jr": "JR127113",
@@ -1061,11 +1061,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/14/2026",
       "pay_text": "Pay Rate: $17.75 per hour",
       "pay_min": 17.75,
       "pay_max": 17.75,
-      "summary": "We are seeking one or two detail-oriented and technically skilled Graduate Students to design and build an interactive, web-based platform for navigating the AIDA Center\u2019s Mindful AI framework. This position offers an excellent opportunity to work at the intersection of mindful AI governance, UI/UX design, and full-stack web development. | Hours: 15\u201320 hours per week."
+      "summary": "We are seeking one or two detail-oriented and technically skilled Graduate Students to design and build an interactive, web-based platform for navigating the AIDA Center\u2019s Mindful AI framework. This position offers an excellent opportunity to work at the intersection of mindful AI governance, UI/UX design, and full-stack web development. | Hours: 15\u201320 hours per week.",
+      "posting_date": "09/14/2026"
     },
     {
       "jr": "JR125087",
@@ -1075,11 +1075,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/11/2026",
       "pay_text": "Pay Rate: $25.00 per hour",
       "pay_min": 25.0,
       "pay_max": 25.0,
-      "summary": "The Supplemental Instruction (SI) Tutor will provide virtual academic support to students enrolled in the online RN BSN and CEP nursing programs at Arizona State University. The SI Tutor will facilitate tutoring sessions, promote student engagement, and support student success through collaborative learning strategies. The position will work with the RN-BSN and CEP Program Office and faculty to reinforce course concepts and support student progression. This is a fully virtual student worker position requiring approximately 10 hours per week. The SI Tutor will provide individual and small-group tutoring, facilitate review sessions, and connect students with academic resources as needed. | May be required to work flexible hours, including evenings and occasional weekends, to accommodate s..."
+      "summary": "The Supplemental Instruction (SI) Tutor will provide virtual academic support to students enrolled in the online RN BSN and CEP nursing programs at Arizona State University. The SI Tutor will facilitate tutoring sessions, promote student engagement, and support student success through collaborative learning strategies. The position will work with the RN-BSN and CEP Program Office and faculty to reinforce course concepts and support student progression. This is a fully virtual student worker position requiring approximately 10 hours per week. The SI Tutor will provide individual and small-group tutoring, facilitate review sessions, and connect students with academic resources as needed. | May be required to work flexible hours, including evenings and occasional weekends, to accommodate s...",
+      "posting_date": "09/11/2026"
     },
     {
       "jr": "JR127046",
@@ -1089,11 +1089,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/09/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Schedules include nights, weekends, and possible holidays. | When To Work software program used for employee sign-up for events (training provided); may work an average of 25 hours per week or less."
+      "summary": "Schedules include nights, weekends, and possible holidays. | When To Work software program used for employee sign-up for events (training provided); may work an average of 25 hours per week or less.",
+      "posting_date": "09/09/2026"
     },
     {
       "jr": "JR127114",
@@ -1103,11 +1103,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/09/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Days and Schedule: In-person, 15\u201320 hours per week. The majority of work takes place during Campus Visits, held Tuesdays, Thursdays, and Fridays from 9:00 a.m.\u20131:00 p.m. Applicants should be available to work during these times. Additional flexibility is required for occasional evening and weekend events."
+      "summary": "Days and Schedule: In-person, 15\u201320 hours per week. The majority of work takes place during Campus Visits, held Tuesdays, Thursdays, and Fridays from 9:00 a.m.\u20131:00 p.m. Applicants should be available to work during these times. Additional flexibility is required for occasional evening and weekend events.",
+      "posting_date": "09/09/2026"
     },
     {
       "jr": "JR127021",
@@ -1117,11 +1117,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/08/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Occasional evening and weekend hours may be assigned. | Sit or stand for the duration of the shift, climb stairs, or walk moderate distances to perform work."
+      "summary": "Occasional evening and weekend hours may be assigned. | Sit or stand for the duration of the shift, climb stairs, or walk moderate distances to perform work.",
+      "posting_date": "09/08/2026"
     },
     {
       "jr": "JR122464",
@@ -1131,11 +1131,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/03/2026",
       "pay_text": "Pay rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Special Instructions: In your cover letter, please explain your understanding of the Event Assistant position, why you are interested in the position, and your availability for the spring semester, with days of the week available between the working hours of 6 am and 11 pm. | Communicate information about maintenance, building activity, and staff issues occurring while on shift to the appropriate staff member. | Must be available to work flexible hours, including nights, early mornings, weekends, holidays, and University-wide functions, including Commencement, Homecoming, Fall Welcomes, etc. | Must be available to work a minimum of 3 shifts per week. (12 hours) | The purpose of Student Connection and Community (SCC) is to provide a holistic approach to the student experience, recognize ..."
+      "summary": "Special Instructions: In your cover letter, please explain your understanding of the Event Assistant position, why you are interested in the position, and your availability for the spring semester, with days of the week available between the working hours of 6 am and 11 pm. | Communicate information about maintenance, building activity, and staff issues occurring while on shift to the appropriate staff member. | Must be available to work flexible hours, including nights, early mornings, weekends, holidays, and University-wide functions, including Commencement, Homecoming, Fall Welcomes, etc. | Must be available to work a minimum of 3 shifts per week. (12 hours) | The purpose of Student Connection and Community (SCC) is to provide a holistic approach to the student experience, recognize ...",
+      "posting_date": "09/03/2026"
     },
     {
       "jr": "JR126730",
@@ -1145,11 +1145,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "09/03/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "As an Intramural Sports Manager, you are responsible for the administration and execution of all Intramural, Recreation, and Sport Club events at your assigned facility. The manager is responsible for enforcing the policies and procedures of that facility and program and assisting with the development and implementation of all Sun Devil Sports Programs. You will do this by providing an environment where students can participate at their desired skill level in a wide array of athletic and recreational pursuits. | Assist in all aspects of Intramural Sports staff, including but not limited to marketing, human resources, officials\u2019 development, field maintenance, and administrative functions. | Supervise the set-up and take-down of Intramural, Sport Club, and Inclusive Recreation sites and ..."
+      "summary": "As an Intramural Sports Manager, you are responsible for the administration and execution of all Intramural, Recreation, and Sport Club events at your assigned facility. The manager is responsible for enforcing the policies and procedures of that facility and program and assisting with the development and implementation of all Sun Devil Sports Programs. You will do this by providing an environment where students can participate at their desired skill level in a wide array of athletic and recreational pursuits. | Assist in all aspects of Intramural Sports staff, including but not limited to marketing, human resources, officials\u2019 development, field maintenance, and administrative functions. | Supervise the set-up and take-down of Intramural, Sport Club, and Inclusive Recreation sites and ...",
+      "posting_date": "09/03/2026"
     },
     {
       "jr": "JR123534",
@@ -1159,11 +1159,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/02/2026",
       "pay_text": "Rate of Pay: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Occasional evening and weekend hours. | Sit or stand for the duration of the shift, climb stairs or walk moderate distances to perform work."
+      "summary": "Occasional evening and weekend hours. | Sit or stand for the duration of the shift, climb stairs or walk moderate distances to perform work.",
+      "posting_date": "09/02/2026"
     },
     {
       "jr": "JR125998",
@@ -1173,11 +1173,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/02/2026",
       "pay_text": "Pay Rate: $25.00 per hour; 10 hours per week.",
       "pay_min": 25.0,
       "pay_max": 25.0,
-      "summary": "Pay Rate: $25.00 per hour; 10 hours per week. | Document simulation architectures, test results, and system configurations; collaborate with team members on integration and iterative development."
+      "summary": "Pay Rate: $25.00 per hour; 10 hours per week. | Document simulation architectures, test results, and system configurations; collaborate with team members on integration and iterative development.",
+      "posting_date": "09/02/2026"
     },
     {
       "jr": "JR125997",
@@ -1187,11 +1187,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/02/2026",
       "pay_text": "Pay Rate: $25.00 per hour; 10 hours per week.",
       "pay_min": 25.0,
       "pay_max": 25.0,
-      "summary": "Pay Rate: $25.00 per hour; 10 hours per week. | Applicants should have hands-on experience with autonomous aerial robotic systems, particularly with onboard perception, control, and system integration. Requires familiarity with: Quadrotor UAV platforms and PX4-based flight control, Companion-computer autonomy on Linux-based embedded systems, ROS or ROS2 for perception, estimation, and control pipelines, MAVLink-based communication (e.g., MAVROS, MAVSDK, or direct MAVLink interfaces), Python-based robotics development (C++ can also be used), Camera-based perception for mobile robots, Experimental debugging and operation of robotic systems in real environments."
+      "summary": "Pay Rate: $25.00 per hour; 10 hours per week. | Applicants should have hands-on experience with autonomous aerial robotic systems, particularly with onboard perception, control, and system integration. Requires familiarity with: Quadrotor UAV platforms and PX4-based flight control, Companion-computer autonomy on Linux-based embedded systems, ROS or ROS2 for perception, estimation, and control pipelines, MAVLink-based communication (e.g., MAVROS, MAVSDK, or direct MAVLink interfaces), Python-based robotics development (C++ can also be used), Camera-based perception for mobile robots, Experimental debugging and operation of robotic systems in real environments.",
+      "posting_date": "09/02/2026"
     },
     {
       "jr": "JR125995",
@@ -1201,11 +1201,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "09/02/2026",
       "pay_text": "Pay Rate: $25.00 per hour; 10 hours per week.",
       "pay_min": 25.0,
       "pay_max": 25.0,
-      "summary": "Pay Rate: $25.00 per hour; 10 hours per week."
+      "summary": "Pay Rate: $25.00 per hour; 10 hours per week.",
+      "posting_date": "09/02/2026"
     },
     {
       "jr": "JR126728",
@@ -1215,11 +1215,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/31/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Ensure all program equipment is accounted for and used in accordance with its intended purpose. | Set up and take down intramural sites and equipment."
+      "summary": "Ensure all program equipment is accounted for and used in accordance with its intended purpose. | Set up and take down intramural sites and equipment.",
+      "posting_date": "08/31/2026"
     },
     {
       "jr": "JR124794",
@@ -1229,11 +1229,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/27/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "Familiarize and become proficient with timing and scorekeeping equipment associated with aquatic events. | Available to work weekends as needed. | Must be able to work weekends as needed and a minimum of 10 hours per week, but not more than an average of 25 hours per week."
+      "summary": "Familiarize and become proficient with timing and scorekeeping equipment associated with aquatic events. | Available to work weekends as needed. | Must be able to work weekends as needed and a minimum of 10 hours per week, but not more than an average of 25 hours per week.",
+      "posting_date": "08/27/2026"
     },
     {
       "jr": "JR126507",
@@ -1243,11 +1243,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/26/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Utilize POS software to check out, collect, and track equipment and calculate the\u00a0total costs of gaming equipment at Sparky\u2019s Den. | Must be available to work flexible hours, including nights, early mornings, weekends, holidays, and University-wide functions, including Commencement, Homecoming, Fall Welcomes, etc. | Must be available to work a minimum of 3 shifts per week (12 hours)."
+      "summary": "Utilize POS software to check out, collect, and track equipment and calculate the\u00a0total costs of gaming equipment at Sparky\u2019s Den. | Must be available to work flexible hours, including nights, early mornings, weekends, holidays, and University-wide functions, including Commencement, Homecoming, Fall Welcomes, etc. | Must be available to work a minimum of 3 shifts per week (12 hours).",
+      "posting_date": "08/26/2026"
     },
     {
       "jr": "JR126353",
@@ -1257,11 +1257,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/25/2026",
       "pay_text": "Pay Rate: $17.50 per hour",
       "pay_min": 17.5,
       "pay_max": 17.5,
-      "summary": "The America Reads Tutor Supervisor provides leadership, supervision, and operational support for a team of Federal Work-Study (FWS) America Reads Tutors at community service sites throughout the metro area. Supervisors play a key role in creating a positive, inclusive, and structured learning environment while supporting their team's professional development and success. | Lead, mentor, and support America Reads Tutors through regular communication, one-on-one meetings, action plans, supplemental training, and professional development."
+      "summary": "The America Reads Tutor Supervisor provides leadership, supervision, and operational support for a team of Federal Work-Study (FWS) America Reads Tutors at community service sites throughout the metro area. Supervisors play a key role in creating a positive, inclusive, and structured learning environment while supporting their team's professional development and success. | Lead, mentor, and support America Reads Tutors through regular communication, one-on-one meetings, action plans, supplemental training, and professional development.",
+      "posting_date": "08/25/2026"
     },
     {
       "jr": "JR126342",
@@ -1271,11 +1271,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 100% - America Reads",
-      "posting_end_date": "08/25/2026",
       "pay_text": "Pay Rate: $16.75 per hour",
       "pay_min": 16.75,
       "pay_max": 16.75,
-      "summary": "The Lead Tutor (LT) serves as a peer leader and on-site resource for tutors, mentors, supervisors, and students. This position provides hands-on experience in mentorship, training, program operations, and professional development while working in a dynamic environment across multiple campuses and community sites, both in person and virtually."
+      "summary": "The Lead Tutor (LT) serves as a peer leader and on-site resource for tutors, mentors, supervisors, and students. This position provides hands-on experience in mentorship, training, program operations, and professional development while working in a dynamic environment across multiple campuses and community sites, both in person and virtually.",
+      "posting_date": "08/25/2026"
     },
     {
       "jr": "JR123195",
@@ -1285,11 +1285,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 100% - America Reads",
-      "posting_end_date": "08/25/2026",
       "pay_text": "Pay Rate: $16.00 per hour",
       "pay_min": 16.0,
       "pay_max": 16.0,
-      "summary": "America Reads/America Counts was initiated by President Clinton in 1996 and is a comprehensive, nationwide effort to create in-school, after-school, weekend, and summer tutoring programs in reading, writing, and math. Working to support the efforts of teachers and parents to ensure that every child can read independently by the end of the third grade. The government implements Federal Work-Study funds to staff America Reads/America Counts at universities with college-student tutors, leaders, and mentors."
+      "summary": "America Reads/America Counts was initiated by President Clinton in 1996 and is a comprehensive, nationwide effort to create in-school, after-school, weekend, and summer tutoring programs in reading, writing, and math. Working to support the efforts of teachers and parents to ensure that every child can read independently by the end of the third grade. The government implements Federal Work-Study funds to staff America Reads/America Counts at universities with college-student tutors, leaders, and mentors.",
+      "posting_date": "08/25/2026"
     },
     {
       "jr": "JR126329",
@@ -1299,11 +1299,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/24/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The Building Manager (BM) serves as the primary liaison between the Student Center and the campus community, assisting as the student lead in the daily operations of the Student Center/Union, including staff, facility, and event management. An integral part of the team, the Building Manager acts in place of professional staff and exhibits a high level of independence and decision-making within the guidelines of the position. The Building Manager will be highly familiar with all facility policies, equipment, programs, and services and will possess knowledge of all Student Center function areas. | Ensure equipment and furniture are accounted for and in working condition while on shift. | Must be available to work flexible hours including nights, early mornings, weekends, holidays, and mos..."
+      "summary": "The Building Manager (BM) serves as the primary liaison between the Student Center and the campus community, assisting as the student lead in the daily operations of the Student Center/Union, including staff, facility, and event management. An integral part of the team, the Building Manager acts in place of professional staff and exhibits a high level of independence and decision-making within the guidelines of the position. The Building Manager will be highly familiar with all facility policies, equipment, programs, and services and will possess knowledge of all Student Center function areas. | Ensure equipment and furniture are accounted for and in working condition while on shift. | Must be available to work flexible hours including nights, early mornings, weekends, holidays, and mos...",
+      "posting_date": "08/24/2026"
     },
     {
       "jr": "JR123144",
@@ -1313,11 +1313,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/24/2026",
       "pay_text": "Pay Range:\u00a0$17.00 - $18.00 per hour; DOE",
       "pay_min": 17.0,
       "pay_max": 18.0,
-      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200-1,000+learners in each course. Hours are not guaranteed and can vary between 5-20 hours per week, per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of role in sessions beyond the class session for which they were hired is not guaranteed."
+      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200-1,000+learners in each course. Hours are not guaranteed and can vary between 5-20 hours per week, per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of role in sessions beyond the class session for which they were hired is not guaranteed.",
+      "posting_date": "08/24/2026"
     },
     {
       "jr": "JR126173",
@@ -1327,10 +1327,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/20/2026",
       "pay_text": "Pay Rate: $22.00 per hour",
       "pay_min": 22.0,
-      "pay_max": 22.0
+      "pay_max": 22.0,
+      "posting_date": "08/20/2026"
     },
     {
       "jr": "JR126082",
@@ -1340,10 +1340,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/20/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "08/20/2026"
     },
     {
       "jr": "JR122755",
@@ -1353,11 +1353,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/19/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The ideal candidate is comfortable interviewing fellow students, pitching story\u00a0ideas, and adapting to shifting priorities in a fast-paced newsroom environment. | Days and hours will vary based on business needs and students\u2019 availability. Candidates must be available Monday through Friday between 8:00 AM and 5:00 PM and be able to work 10\u201320 hours per week. Availability during summer and school breaks is required. | While the primary work location is the ASU Tempe campus, the position may require travel to ASU West, Polytechnic, and Downtown Phoenix campuses, as well as off\u2011campus events. The role may also include occasional evening and weekend event coverage. Incumbent may be required to drive their own vehicle when traveling to other locations."
+      "summary": "The ideal candidate is comfortable interviewing fellow students, pitching story\u00a0ideas, and adapting to shifting priorities in a fast-paced newsroom environment. | Days and hours will vary based on business needs and students\u2019 availability. Candidates must be available Monday through Friday between 8:00 AM and 5:00 PM and be able to work 10\u201320 hours per week. Availability during summer and school breaks is required. | While the primary work location is the ASU Tempe campus, the position may require travel to ASU West, Polytechnic, and Downtown Phoenix campuses, as well as off\u2011campus events. The role may also include occasional evening and weekend event coverage. Incumbent may be required to drive their own vehicle when traveling to other locations.",
+      "posting_date": "08/19/2026"
     },
     {
       "jr": "JR124878",
@@ -1367,11 +1367,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/17/2026",
       "pay_text": "Pay Rate: $16.25 per hour",
       "pay_min": 16.25,
       "pay_max": 16.25,
-      "summary": "House Managers provide event support and stellar customer service for a variety of performances within the Herberger Institute for Design and the Arts on the Tempe campus, supervising and leading a small team of student worker usher staff. This position does not follow a consistent weekly schedule. Work schedules are varied; hiring is based on qualifications and availability. Most events take place Fridays, Saturdays, and Sundays during the academic school year, with some events on Wednesday and Thursday evenings as well. Cover letters should be succinct, express why you would be an asset in a House Manager position, and must include your general hours of availability for the Fall (and Spring, if possible) semester from 6-11 pm Wednesdays-Saturdays, and 12\u20135 pm on Sundays. | Maintain fl..."
+      "summary": "House Managers provide event support and stellar customer service for a variety of performances within the Herberger Institute for Design and the Arts on the Tempe campus, supervising and leading a small team of student worker usher staff. This position does not follow a consistent weekly schedule. Work schedules are varied; hiring is based on qualifications and availability. Most events take place Fridays, Saturdays, and Sundays during the academic school year, with some events on Wednesday and Thursday evenings as well. Cover letters should be succinct, express why you would be an asset in a House Manager position, and must include your general hours of availability for the Fall (and Spring, if possible) semester from 6-11 pm Wednesdays-Saturdays, and 12\u20135 pm on Sundays. | Maintain fl...",
+      "posting_date": "08/17/2026"
     },
     {
       "jr": "JR124885",
@@ -1381,11 +1381,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/17/2026",
       "pay_text": "Pay Rate: $15.25 per hour",
       "pay_min": 15.25,
       "pay_max": 15.25,
-      "summary": "Ushers provide event support and stellar customer service for a variety of performances within the Herberger Institute for Design and the Arts on the Tempe campus. This position does not follow a consistent weekly schedule. Work schedules are varied; hiring is based on qualifications and availability. Most events take place Fridays, Saturdays, and Sundays during the academic school year, with some events on Wednesday and Thursday evenings as well. | Maintain flexible availability for irregular scheduling based on event schedule; primarily evening and weekend hours. Usher must provide monthly availability to work at least 50% of listed event dates in a given month, unless otherwise discussed with supervisor | Note: Even in the busiest months, 50% minimum rarely exceeds 7 dates. September..."
+      "summary": "Ushers provide event support and stellar customer service for a variety of performances within the Herberger Institute for Design and the Arts on the Tempe campus. This position does not follow a consistent weekly schedule. Work schedules are varied; hiring is based on qualifications and availability. Most events take place Fridays, Saturdays, and Sundays during the academic school year, with some events on Wednesday and Thursday evenings as well. | Maintain flexible availability for irregular scheduling based on event schedule; primarily evening and weekend hours. Usher must provide monthly availability to work at least 50% of listed event dates in a given month, unless otherwise discussed with supervisor | Note: Even in the busiest months, 50% minimum rarely exceeds 7 dates. September...",
+      "posting_date": "08/17/2026"
     },
     {
       "jr": "JR125580",
@@ -1395,11 +1395,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/13/2026",
       "pay_text": "Pay Rate: $18.00 per hour",
       "pay_min": 18.0,
       "pay_max": 18.0,
-      "summary": "ASU Media Relations & Strategic Communications is seeking a highly organized, detail-oriented Video Editing and Production Assistant to join the award-winning Visual Communications (VisComm) team, a group of video, photo, web, design and social media professionals whose work is regularly featured across the university and beyond. This role is central to the team's post-production workflow, with responsibilities that include editing video content \u2014 primarily for social media \u2014 managing digital assets and supporting production. The role may also include assisting with story development, conducting interviews and occasionally appearing on camera for social-first videos as needed. To see examples of past projects created by our student team, visit asumrsc.com/video-editing. | Minimum 10 hou..."
+      "summary": "ASU Media Relations & Strategic Communications is seeking a highly organized, detail-oriented Video Editing and Production Assistant to join the award-winning Visual Communications (VisComm) team, a group of video, photo, web, design and social media professionals whose work is regularly featured across the university and beyond. This role is central to the team's post-production workflow, with responsibilities that include editing video content \u2014 primarily for social media \u2014 managing digital assets and supporting production. The role may also include assisting with story development, conducting interviews and occasionally appearing on camera for social-first videos as needed. To see examples of past projects created by our student team, visit asumrsc.com/video-editing. | Minimum 10 hou...",
+      "posting_date": "08/13/2026"
     },
     {
       "jr": "JR125507",
@@ -1409,10 +1409,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/12/2026",
       "pay_text": "Pay Rate: $17.75 per hour",
       "pay_min": 17.75,
-      "pay_max": 17.75
+      "pay_max": 17.75,
+      "posting_date": "08/12/2026"
     },
     {
       "jr": "JR109117",
@@ -1422,10 +1422,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/12/2026",
       "pay_text": "Pay Rate: $16.00 per hour",
       "pay_min": 16.0,
-      "pay_max": 16.0
+      "pay_max": 16.0,
+      "posting_date": "08/12/2026"
     },
     {
       "jr": "JR125400",
@@ -1435,9 +1435,9 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/11/2026",
       "pay_text": "Pay Rate: $15.97",
-      "summary": "In your application, please specify (a) which historical regions (IE--Europe, North America, Asia, Global) and time periods (IE--ancient, medieval, 19th C, 20th C) you feel most comfortable serving as a grader for; (b) note whether you are available 10 or 20 hours per week; and (c) indicate if it is possible for you to be on campus to support in-person classes (not a requirement)."
+      "summary": "In your application, please specify (a) which historical regions (IE--Europe, North America, Asia, Global) and time periods (IE--ancient, medieval, 19th C, 20th C) you feel most comfortable serving as a grader for; (b) note whether you are available 10 or 20 hours per week; and (c) indicate if it is possible for you to be on campus to support in-person classes (not a requirement).",
+      "posting_date": "08/11/2026"
     },
     {
       "jr": "JR124922",
@@ -1447,9 +1447,9 @@
       "job_profile": "Graduate Service Assistant",
       "worker_scale": "",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/07/2026",
       "pay_text": "",
-      "summary": "Graduate Service Assistant appointments may vary based on departmental and instructional needs. Appointments may be assigned up to 20 hours per week in accordance with university policies governing graduate student employment. | Faculty and course assignments are determined based on the operational needs of the College of Health Solutions and the candidate's qualifications. The specific faculty member, course assignment, FTE, and work schedule will be communicated to the selected candidate during the offer process. | Specific work schedules and locations will be determined at the time of appointment. Students will need be able to access web-based programs related to course support, i.e. Canvas."
+      "summary": "Graduate Service Assistant appointments may vary based on departmental and instructional needs. Appointments may be assigned up to 20 hours per week in accordance with university policies governing graduate student employment. | Faculty and course assignments are determined based on the operational needs of the College of Health Solutions and the candidate's qualifications. The specific faculty member, course assignment, FTE, and work schedule will be communicated to the selected candidate during the offer process. | Specific work schedules and locations will be determined at the time of appointment. Students will need be able to access web-based programs related to course support, i.e. Canvas.",
+      "posting_date": "08/07/2026"
     },
     {
       "jr": "JR125007",
@@ -1459,11 +1459,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/07/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The Schools of Historical, Philosophical, and Religious Studies (SHPRS) seeks individuals with philosophy backgrounds to fill philosophy course grader positions. Graders will be responsible for assisting faculty with grading and student support in a knowledgeable, courteous, and timely manner. Applicants must have or be undergraduate philosophy majors or minors (in progress is fine). This position is for up to 20 hours per week (dependent on the course needs)."
+      "summary": "The Schools of Historical, Philosophical, and Religious Studies (SHPRS) seeks individuals with philosophy backgrounds to fill philosophy course grader positions. Graders will be responsible for assisting faculty with grading and student support in a knowledgeable, courteous, and timely manner. Applicants must have or be undergraduate philosophy majors or minors (in progress is fine). This position is for up to 20 hours per week (dependent on the course needs).",
+      "posting_date": "08/07/2026"
     },
     {
       "jr": "JR121424",
@@ -1473,10 +1473,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/05/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "08/05/2026"
     },
     {
       "jr": "JR124786",
@@ -1486,11 +1486,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/04/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The schedule includes nights, weekends, and possibly holidays."
+      "summary": "The schedule includes nights, weekends, and possibly holidays.",
+      "posting_date": "08/04/2026"
     },
     {
       "jr": "JR123141",
@@ -1500,11 +1500,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/04/2026",
       "pay_text": "Pay Range:\u00a0$17.00 - $18.00 per hour; DOE",
       "pay_min": 17.0,
       "pay_max": 18.0,
-      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200-1,000+learners in each course. Hours are not guaranteed and can vary between 5-20 hours per week, per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of the role in sessions beyond the class session for which they were hired is not guaranteed."
+      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200-1,000+learners in each course. Hours are not guaranteed and can vary between 5-20 hours per week, per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of the role in sessions beyond the class session for which they were hired is not guaranteed.",
+      "posting_date": "08/04/2026"
     },
     {
       "jr": "JR123018",
@@ -1514,11 +1514,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "08/04/2026",
       "pay_text": "Pay Rate: $17.00 - $18.00 per hour",
       "pay_min": 17.0,
       "pay_max": 18.0,
-      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200 and 1,000+ learners in each course. Hours are not guaranteed and can vary between 5 and 20 hours per week per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of role in sessions beyond the class session for which hired is not guaranteed."
+      "summary": "The Learning Enterprise at ASU seeks creative, highly motivated, self-directed, detail-oriented candidates with strong written and verbal skills to assist with grading and course management for our Universal Learner Courses (ULC), which are delivered remotely. ULCs are scalable and delivered asynchronously, and can have between 200 and 1,000+ learners in each course. Hours are not guaranteed and can vary between 5 and 20 hours per week per 8-week session. Future sessions may be available, but are not guaranteed. | This is a temporary part-time position, with a maximum of 19.5 hours per week. It may terminate when the work is no longer available. Continuation of role in sessions beyond the class session for which hired is not guaranteed.",
+      "posting_date": "08/04/2026"
     },
     {
       "jr": "JR124829",
@@ -1528,10 +1528,10 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "08/04/2026",
       "pay_text": "Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
-      "pay_max": 15.1
+      "pay_max": 15.1,
+      "posting_date": "08/04/2026"
     },
     {
       "jr": "JR124327",
@@ -1541,11 +1541,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/29/2026",
       "pay_text": "Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
       "pay_max": 15.97,
-      "summary": "The School of Historical, Philosophical, and Religious Studies is currently seeking qualified student employees to fill course grader positions in Religious Studies. Course graders will be responsible for assisting course instructors in a courteous and expeditious manner. Hours for this position may range from 5 to 20 hours per week, depending on course needs. Future sessions may be available, but are not guaranteed. This posting is for a hiring pool, to be considered for Fall 2026 (sessions A, B, or C) and Spring 2027 (sessions A, B, or C)."
+      "summary": "The School of Historical, Philosophical, and Religious Studies is currently seeking qualified student employees to fill course grader positions in Religious Studies. Course graders will be responsible for assisting course instructors in a courteous and expeditious manner. Hours for this position may range from 5 to 20 hours per week, depending on course needs. Future sessions may be available, but are not guaranteed. This posting is for a hiring pool, to be considered for Fall 2026 (sessions A, B, or C) and Spring 2027 (sessions A, B, or C).",
+      "posting_date": "07/29/2026"
     },
     {
       "jr": "JR124338",
@@ -1555,8 +1555,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/29/2026",
-      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 -\u00a0Stipend range: $93.72 to $3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 - \u200bStipend range: $124.96 to $4,998.40"
+      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 -\u00a0Stipend range: $93.72 to $3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 - \u200bStipend range: $124.96 to $4,998.40",
+      "posting_date": "07/29/2026"
     },
     {
       "jr": "JR124347",
@@ -1566,8 +1566,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/29/2026",
-      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 - Stipend range: $93.72 to $3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 -\u00a0Stipend range: $124.96 to $4,998.40"
+      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 - Stipend range: $93.72 to $3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 -\u00a0Stipend range: $124.96 to $4,998.40",
+      "posting_date": "07/29/2026"
     },
     {
       "jr": "JR124316",
@@ -1577,8 +1577,8 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/29/2026",
-      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 - Stipend range: $93.72 to 3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 -\u00a0Stipend range: $124.96 to $4,998.40"
+      "pay_text": "STIPEND: | Session A: 08/13/2026 to 10/12/2026 - Stipend range: $93.72 to 3,748.80 | Session B: 10/07/2026 to 12/14/2026 - Stipend range: $93.72 to $3,748.80 | Session C: 08/13/2026 to 12/14/2026 -\u00a0Stipend range: $124.96 to $4,998.40",
+      "posting_date": "07/29/2026"
     },
     {
       "jr": "JR121973",
@@ -1588,11 +1588,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/27/2026",
       "pay_text": "$15.00 USD Hourly | Pay Rate: $15.00 per hour",
       "pay_min": 15.0,
       "pay_max": 15.0,
-      "summary": "Flexible schedule (days/nights, late hours, weekends, and holidays)"
+      "summary": "Flexible schedule (days/nights, late hours, weekends, and holidays)",
+      "posting_date": "07/27/2026"
     },
     {
       "jr": "JR124070",
@@ -1602,10 +1602,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/27/2026",
       "pay_text": "$15.97 USD Hourly | Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "07/27/2026"
     },
     {
       "jr": "JR124076",
@@ -1615,10 +1615,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/27/2026",
       "pay_text": "$22.00 USD Hourly | Pay Rate: $22.00 per hour",
       "pay_min": 22.0,
-      "pay_max": 22.0
+      "pay_max": 22.0,
+      "posting_date": "07/27/2026"
     },
     {
       "jr": "JR123864",
@@ -1628,11 +1628,11 @@
       "job_profile": "Student Worker II",
       "worker_scale": "II",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/20/2026",
       "pay_text": "$15.10 USD Hourly | Pay Rate: $15.10 per hour",
       "pay_min": 15.1,
       "pay_max": 15.1,
-      "summary": "Dress neatly and appropriately for each shift. | Work nights and weekends"
+      "summary": "Dress neatly and appropriately for each shift. | Work nights and weekends",
+      "posting_date": "07/20/2026"
     },
     {
       "jr": "JR123673",
@@ -1642,11 +1642,11 @@
       "job_profile": "Student Worker I - Authorized Driver",
       "worker_scale": "I",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/20/2026",
       "pay_text": "$14.70 USD Hourly | Pay Rate: $14.70 per hour.",
       "pay_min": 14.7,
       "pay_max": 14.7,
-      "summary": "Accurately record all Dual Litter service during each shift."
+      "summary": "Accurately record all Dual Litter service during each shift.",
+      "posting_date": "07/20/2026"
     },
     {
       "jr": "JR123585",
@@ -1656,11 +1656,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/15/2026",
       "pay_text": "$17.75 USD Hourly | Pay Rate: $17.75 per hour",
       "pay_min": 17.75,
       "pay_max": 17.75,
-      "summary": "Most assignments will require between 8 and 15 hours per week."
+      "summary": "Most assignments will require between 8 and 15 hours per week.",
+      "posting_date": "07/15/2026"
     },
     {
       "jr": "JR123587",
@@ -1670,11 +1670,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/15/2026",
       "pay_text": "$18.25 USD Hourly | Pay Rate: $18.25 per hour",
       "pay_min": 18.25,
       "pay_max": 18.25,
-      "summary": "Executive Engineering tutors will work within the FSE PULSE Tutoring Centers to provide academic support for students in a variety of capacities, with a core focus on undergraduate courses. Job assignments include tutoring at one of our various drop-in centers located throughout campus, virtual tutoring to support off-campus and online students, study group leaders to support students in targeted high-stakes courses, and freshman success leaders to guide and support freshmen. Most assignments will require between 8 and 20 hours per week. \u200b | Available for a minimum of 8 hours per week."
+      "summary": "Executive Engineering tutors will work within the FSE PULSE Tutoring Centers to provide academic support for students in a variety of capacities, with a core focus on undergraduate courses. Job assignments include tutoring at one of our various drop-in centers located throughout campus, virtual tutoring to support off-campus and online students, study group leaders to support students in targeted high-stakes courses, and freshman success leaders to guide and support freshmen. Most assignments will require between 8 and 20 hours per week. \u200b | Available for a minimum of 8 hours per week.",
+      "posting_date": "07/15/2026"
     },
     {
       "jr": "JR122793",
@@ -1684,11 +1684,11 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/14/2026",
       "pay_text": "$14.70 USD Hourly | Pay Rate:  $14.70 per hour",
       "pay_min": 14.7,
       "pay_max": 14.7,
-      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H..."
+      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H...",
+      "posting_date": "07/14/2026"
     },
     {
       "jr": "JR122794",
@@ -1698,11 +1698,11 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/14/2026",
       "pay_text": "$14.70 USD Hourly | Pay Rate: $14.70 per hour",
       "pay_min": 14.7,
       "pay_max": 14.7,
-      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H..."
+      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H...",
+      "posting_date": "07/14/2026"
     },
     {
       "jr": "JR122789",
@@ -1712,11 +1712,11 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/14/2026",
       "pay_text": "$14.70 USD Hourly | Pay Rate: $14.70 per hour",
       "pay_min": 14.7,
       "pay_max": 14.7,
-      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H..."
+      "summary": "Successful candidates offered employment can only work in one position within University Housing as a Desk Assistant and may only work up to 20 hours per week. | Work university breaks (fall, winter, spring, summer), University observed holidays (Labor Day, Memorial Day, etc.), and weekends. | Availability to work overnights, weekends, openings/closings, and university breaks/holidays. | Available to work at least 15 hours per week. | University Housing strives to be a global leader in university student housing - building dynamic, innovative, and inclusive Residential Colleges that foster academic and personal success, empower students to create social value and lasting impacts, facilitate connection to the broader community, and support individual student persistence. ASU University H...",
+      "posting_date": "07/14/2026"
     },
     {
       "jr": "JR123465",
@@ -1726,11 +1726,11 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "07/10/2026",
       "pay_text": "$19.96 USD Hourly | Pay Rate: $19.96 per hour",
       "pay_min": 19.96,
       "pay_max": 19.96,
-      "summary": "Availability to work during summer and winter breaks and occasionally on the weekends during the fall and spring semesters. | Schedule & pace: Part-time (around 6 hrs/week, max 10) with a variable, event-driven schedule. | Occasional weekend support during fall/spring; summer and winter break availability expected. Busy during recruitment peaks."
+      "summary": "Availability to work during summer and winter breaks and occasionally on the weekends during the fall and spring semesters. | Schedule & pace: Part-time (around 6 hrs/week, max 10) with a variable, event-driven schedule. | Occasional weekend support during fall/spring; summer and winter break availability expected. Busy during recruitment peaks.",
+      "posting_date": "07/10/2026"
     },
     {
       "jr": "JR123170",
@@ -1740,9 +1740,9 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/08/2026",
       "pay_text": "STIPEND: $1,120.00 + room credit & partial meal plan.",
-      "summary": "Serve in an on-call duty rotation including weekdays, weekends, break periods, and University-approved holidays or closures. | The position, due to its live-in nature, requires a willingness to be called into service at any time of the day or night to meet students' needs as they arise. This position may encounter high-stress/anxiety situations such as emergencies, health concerns, emotional difficulties, etc. Therefore, a high level of maturity, sound judgment, and emotional stability is required to respond responsibly. Fusion Catalysts will serve in an on-call duty rotation, including weekdays, weekends, break periods, and University-approved holidays or closures."
+      "summary": "Serve in an on-call duty rotation including weekdays, weekends, break periods, and University-approved holidays or closures. | The position, due to its live-in nature, requires a willingness to be called into service at any time of the day or night to meet students' needs as they arise. This position may encounter high-stress/anxiety situations such as emergencies, health concerns, emotional difficulties, etc. Therefore, a high level of maturity, sound judgment, and emotional stability is required to respond responsibly. Fusion Catalysts will serve in an on-call duty rotation, including weekdays, weekends, break periods, and University-approved holidays or closures.",
+      "posting_date": "07/08/2026"
     },
     {
       "jr": "JR123169",
@@ -1752,9 +1752,9 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/08/2026",
       "pay_text": "STIPEND: Up to $920.00 per academic year plus room and meal credit (prorated). \u00a0The compensation package includes a stipend, room, and meal credit. Note that the room and meal plan credit will be reported to the Office of Financial Aid and may impact financial aid packages.",
-      "summary": "Serve in an on-call duty rotation including weekdays, weekends, break periods, and university-approved holidays or closures. | The position, due to its live-in nature, requires a willingness to be called into service at any time of the day or night to meet students' needs as they arise.\u00a0 This position may encounter high-stress/anxiety situations such as emergencies, health concerns, emotional difficulties, etc.\u00a0\u00a0 Therefore, a high level of maturity, sound judgment, and emotional stability is required to respond responsibly. CAs will serve in an on-call duty rotation, including weekdays, weekends, break periods, and university-approved holidays or closures."
+      "summary": "Serve in an on-call duty rotation including weekdays, weekends, break periods, and university-approved holidays or closures. | The position, due to its live-in nature, requires a willingness to be called into service at any time of the day or night to meet students' needs as they arise.\u00a0 This position may encounter high-stress/anxiety situations such as emergencies, health concerns, emotional difficulties, etc.\u00a0\u00a0 Therefore, a high level of maturity, sound judgment, and emotional stability is required to respond responsibly. CAs will serve in an on-call duty rotation, including weekdays, weekends, break periods, and university-approved holidays or closures.",
+      "posting_date": "07/08/2026"
     },
     {
       "jr": "JR123178",
@@ -1764,10 +1764,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "07/08/2026",
       "pay_text": "$15.97 USD Hourly | Pay Rate: $15.97 per hour",
       "pay_min": 15.97,
-      "pay_max": 15.97
+      "pay_max": 15.97,
+      "posting_date": "07/08/2026"
     },
     {
       "jr": "JR122860",
@@ -1777,10 +1777,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "06/25/2026",
       "pay_text": "$17.75 USD Hourly | Pay Rate: $17.75 per hour",
       "pay_min": 17.75,
-      "pay_max": 17.75
+      "pay_max": 17.75,
+      "posting_date": "06/25/2026"
     },
     {
       "jr": "JR122768",
@@ -1790,10 +1790,10 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "06/23/2026",
       "pay_text": "$20.00 USD Hourly | Pay Rate: $20.00 per hour",
       "pay_min": 20.0,
-      "pay_max": 20.0
+      "pay_max": 20.0,
+      "posting_date": "06/23/2026"
     },
     {
       "jr": "JR122521",
@@ -1803,11 +1803,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "06/19/2026",
       "pay_text": "$19.50 USD Hourly | Pay Rate: $17.50 - $19.50 per hour; DOE",
       "pay_min": 17.5,
       "pay_max": 19.5,
-      "summary": "A hybrid work environment that offers the opportunity to work remotely from home and come in the office one (1) day a week, flexibility in working hours (Monday through Friday, 9 am to 5 pm), and setting and managing your own schedule. | Committing at least 15 hours a week, working at least 4 hours each shift."
+      "summary": "A hybrid work environment that offers the opportunity to work remotely from home and come in the office one (1) day a week, flexibility in working hours (Monday through Friday, 9 am to 5 pm), and setting and managing your own schedule. | Committing at least 15 hours a week, working at least 4 hours each shift.",
+      "posting_date": "06/19/2026"
     },
     {
       "jr": "JR121963",
@@ -1817,11 +1817,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "06/02/2026",
       "pay_text": "$17.40 USD Hourly | Pay Rate: $17.40 per hour",
       "pay_min": 17.4,
       "pay_max": 17.4,
-      "summary": "MESH Labs, in the School of Games, Arts, Media and Engineering, seeks highly motivated Creative XR Film Storytellers to perform duties associated with editing and VFX.\u00a0 The storyteller will join other students in team-oriented development with the use of Premiere Pro, After Effects, and DaVinci Resolve. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer)."
+      "summary": "MESH Labs, in the School of Games, Arts, Media and Engineering, seeks highly motivated Creative XR Film Storytellers to perform duties associated with editing and VFX.\u00a0 The storyteller will join other students in team-oriented development with the use of Premiere Pro, After Effects, and DaVinci Resolve. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer).",
+      "posting_date": "06/02/2026"
     },
     {
       "jr": "JR120375",
@@ -1831,11 +1831,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "04/30/2026",
       "pay_text": "$17.40 USD Hourly | Pay Rate: $17.40 per hour",
       "pay_min": 17.4,
       "pay_max": 17.4,
-      "summary": "Mesh Labs seeks highly motivated Creative Developers to build augmented reality, virtual reality, and otherwise immersive experiences. The developer will join other students in team-oriented development with the use of the Unity Engine, Unreal Engine, or other XR platforms. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer). Schedule is flexible outside of student availability and agreed deliverable deadlines. | Work in lab spaces on the ASU Tempe Campus (Stauffer Communication Arts) and/or the ASU Mesa Immersive Experience Center as much as you are able (expected 5 hours)"
+      "summary": "Mesh Labs seeks highly motivated Creative Developers to build augmented reality, virtual reality, and otherwise immersive experiences. The developer will join other students in team-oriented development with the use of the Unity Engine, Unreal Engine, or other XR platforms. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer). Schedule is flexible outside of student availability and agreed deliverable deadlines. | Work in lab spaces on the ASU Tempe Campus (Stauffer Communication Arts) and/or the ASU Mesa Immersive Experience Center as much as you are able (expected 5 hours)",
+      "posting_date": "04/30/2026"
     },
     {
       "jr": "JR120374",
@@ -1845,11 +1845,11 @@
       "job_profile": "Student Worker IV",
       "worker_scale": "IV",
       "funding": "No Federal Funding",
-      "posting_end_date": "04/29/2026",
       "pay_text": "$34.80 USD Hourly | Pay Rate:\u00a0$17.40 per hour",
       "pay_min": 17.4,
       "pay_max": 17.4,
-      "summary": "Mesh Labs seeks highly motivated Creative Developers to build augmented reality, virtual reality, and otherwise immersive experiences. The developer will join other students in team-oriented development with the use of the Unity Engine, Unreal Engine, or other XR platforms. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer) | Work in lab spaces on the ASU Tempe Campus (Stauffer Communication Arts) and/or the ASU Mesa Immersive Experience Center as much as you are able (expected 5 hours)"
+      "summary": "Mesh Labs seeks highly motivated Creative Developers to build augmented reality, virtual reality, and otherwise immersive experiences. The developer will join other students in team-oriented development with the use of the Unity Engine, Unreal Engine, or other XR platforms. | DAYS AND SCHEDULE: (up to 10 hrs/wk during semester; up to 20 hrs/wk during summer) | Work in lab spaces on the ASU Tempe Campus (Stauffer Communication Arts) and/or the ASU Mesa Immersive Experience Center as much as you are able (expected 5 hours)",
+      "posting_date": "04/29/2026"
     },
     {
       "jr": "JR119462",
@@ -1859,10 +1859,10 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "04/22/2026",
       "pay_text": "$16.00 USD Hourly | Pay Rate: $16.00 per hour",
       "pay_min": 16.0,
-      "pay_max": 16.0
+      "pay_max": 16.0,
+      "posting_date": "04/22/2026"
     },
     {
       "jr": "JR118780",
@@ -1872,9 +1872,9 @@
       "job_profile": "Student Worker III",
       "worker_scale": "III",
       "funding": "No Federal Funding",
-      "posting_end_date": "03/19/2026",
       "pay_text": "$15.62 USD Hourly | Pay Rate: $15.62 an hour",
-      "summary": "Preference will be given to candidates with Tuesday and Thursday morning availability, along with the ability to work some evening and weekend shifts for programs and events."
+      "summary": "Preference will be given to candidates with Tuesday and Thursday morning availability, along with the ability to work some evening and weekend shifts for programs and events.",
+      "posting_date": "03/19/2026"
     },
     {
       "jr": "JR104852",
@@ -1884,9 +1884,9 @@
       "job_profile": "Student Worker I",
       "worker_scale": "I",
       "funding": "Federal Work Study 70/30% ASU",
-      "posting_end_date": "10/11/2025",
       "pay_text": "$14.35 USD Hourly",
-      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN\u00a0 will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. | Can work an average of 8-20 hours per week.\u00a0 Hours of operation vary by site. | Engages with, creates content for, and promotes the Online Study Hub during work shifts and when interacting with students. | Should remote shifts be an option, remote shifts require access to reliable internet, a computer/laptop, and a quiet space. | Academic Support Network (ASN) is pa..."
+      "summary": "This position is part of ASU\u2019s Work+ program, which is designed to prepare student-employees for their future professional careers. As participants in the Work+ Program, all student-employees in ASN\u00a0 will benefit from supervisors who serve as career guides and mentors, opportunities to build valuable work skills, and robust professional development. For more information on the Work+ Program, visit https://workplus.asu.edu. | Can work an average of 8-20 hours per week.\u00a0 Hours of operation vary by site. | Engages with, creates content for, and promotes the Online Study Hub during work shifts and when interacting with students. | Should remote shifts be an option, remote shifts require access to reliable internet, a computer/laptop, and a quiet space. | Academic Support Network (ASN) is pa...",
+      "posting_date": "10/11/2025"
     },
     {
       "jr": "JR104113",
@@ -1896,9 +1896,9 @@
       "job_profile": "Student Worker V",
       "worker_scale": "V",
       "funding": "No Federal Funding",
-      "posting_end_date": "03/25/2025",
       "pay_text": "Stipend: $1,000.00 per week of camp completed | First Star ASU Academy is currently searching for ASU undergraduates to work during its Summer Programs as Summer Youth Coaches. The position is a full time, stipend position where Youth Coaches serve as mentors, teacher assistants, tutors, and assistant to the Coordinator, Sr. in its Summer Programs. Employment begins immediately and ends before or by June 30th.\u00a0Must be able to commit to every day of assigned camp and mandatory training. Assigned mandatory training courses will be completed online and in-person prior to the start of camp. A one-time stipend of $150.00 will be paid for completing trainings prior to the start of camp.",
-      "summary": "IMPORTANT: Due to the nature of the position, work schedule** must be flexible. | Sun-Fri between 7:00 AM to 10:30 PM | Evenings, weekends, holidays and special occasions including training sessions may also be required."
+      "summary": "IMPORTANT: Due to the nature of the position, work schedule** must be flexible. | Sun-Fri between 7:00 AM to 10:30 PM | Evenings, weekends, holidays and special occasions including training sessions may also be required.",
+      "posting_date": "03/25/2025"
     }
   ]
 }

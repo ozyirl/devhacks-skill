@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/ozyirl/devhacks-skill/on-campus-jobs-skill/asu
 
 `scripts/match_jobs.py` fetches that URL on every search. The copy in `assets/live_jobs.json` is only a fallback if GitHub is unreachable.
 
+Every JR in that file is still on the board as of `as_of`. `posting_date` is when it went up. Do not treat dates as apply-by deadlines. Cubbie lists whatever `match_jobs.py` prints.
+
 ## Refresh the feed (laptop, not Cubbie)
 
 From the repo root, on a Mac whose Chrome can open Find Student Jobs:

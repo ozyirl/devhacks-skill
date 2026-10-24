@@ -96,7 +96,7 @@ def job_from_list_row(extra: str, inst: str = "") -> dict[str, Any] | None:
         title = re.split(r"\s*\|\s*", after, maxsplit=1)[0].strip(" |-")
         if title.lower().startswith("campus:"):
             title = jr
-    end_m = re.search(r"Posting Date:\s*([0-9/]+)", extra, re.I)
+    posted_m = re.search(r"Posting Date:\s*([0-9/]+)", extra, re.I)
     sm = SCALE.search(extra)
     lo, hi = parse_pay(extra)
     job: dict[str, Any] = {
@@ -107,10 +107,11 @@ def job_from_list_row(extra: str, inst: str = "") -> dict[str, Any] | None:
         "job_profile": "",
         "worker_scale": sm.group(1).upper() if sm else "",
         "funding": "",
-        "posting_end_date": end_m.group(1) if end_m else "",
         "pay_text": "",
         "list_text": extra[:400],
     }
+    if posted_m:
+        job["posting_date"] = posted_m.group(1)
     if inst:
         job["inst"] = inst
     if lo is not None:
@@ -157,9 +158,10 @@ def job_from_posting(text: str, url: str = "") -> dict[str, Any] | None:
         "job_profile": profile,
         "worker_scale": sm.group(1).upper() if sm else "",
         "funding": funding,
-        "posting_end_date": end,
         "pay_text": pay_text,
     }
+    if end:
+        job["apply_before"] = end
     if lo is not None:
         job["pay_min"] = lo
     if hi is not None:

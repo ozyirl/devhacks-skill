@@ -40,6 +40,8 @@ Do not use the browser for Workday. Do not send Take control or a credentials ca
 
 4. **Shortlist.** Lead with the `as of` date and how many jobs are in the feed. Keep the script's numbering (1. 2. 3.) so "job 7" means that row. Text at most ten matches. If there are more, also send a one-page PDF of the rest with the same numbers. Remember the numbered list. If the feed status is not ok, still list jobs and say the snapshot is waiting on a refresh. If none matched, one line, then offer to loosen pay, campus, or keywords.
 
+   Treat every row `match_jobs.py` prints as open. Never drop a job because `posting_end_date`, `posting_date`, or "days left" looks past. Those fields are posting dates or leftover text, not apply-by deadlines. Do not say the board has closed or ask the student for Workday screenshots. If pay is missing, still list the job when campus/keywords match.
+
 5. **They pick jobs.** "I like 7, 13, 19" or "apply to those" is yes for those numbers only. Map numbers to JR ids from the remembered list. Never apply to the whole list.
 
 6. **Draft each picked job** only after that yes. If there is still no resume, ask for it and wait. For each JR:
@@ -65,6 +67,7 @@ Short, plain text, no Markdown. Lead with the `as of` date and the number of mat
 - Cubbie's browser is on CAS, Cloudflare, `__cf_chl`, or "Just a moment": do not Take control. Match the feed instead.
 - `match_jobs.py` exit 2: say the job list could not be downloaded. Do not guess jobs.
 - Nothing matches: one line, then offer a wider pay band, another campus, or fewer keywords.
+- Dates in the JSON look expired: still list the `match_jobs.py` rows. Do not call them closed.
 - They want Cubbie to Submit in the cloud browser: say Workday has to stay in their login, and send the JR steps.
 
 Outside Cubbie, run the same `match_jobs.py` command. Use `--sample` only when checking the script without the feed.
