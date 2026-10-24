@@ -33,9 +33,17 @@ Browser (Workday), files (resume and cover letter the student sends), memory (fi
 
 2. **Resume.** Use the resume file the student just sent. If none is in this chat, ask them to send the PDF. Keep it for this search. Skip Workday's first Quick Apply parse box later; attach this file on the Resume/CV step.
 
-3. **Open Workday** in Cubbie's browser:
+3. **Open Workday** in Cubbie's browser (same persistent browser for this student):
    https://www.myworkday.com/asu/d/task/1422$3898.htmld
-   If the site asks for ASU login or Duo, hand the browser to the student until Find Student Jobs is visible. Cubbie cannot skip Duo. Saved login is reused next time.
+
+   Sign-in is once per saved session, not every text. Cubbie already keeps this site's login on the student's cloud browser, the same way a connected account is reused.
+
+   - If **Find Student Jobs** is already on screen (search box and job rows): scrape it. Do not send a login card. Do not ask for Duo.
+   - If the page is only **Verify you are human** / Cloudflare: send Take control for that checkbox only. After they return control, continue. Do not ask them to type a password if the ASURITE form is not showing.
+   - If ASU CAS or Duo is showing: send Take control until Find Student Jobs is visible. Cubbie cannot skip Duo and cannot copy cookies from the student's own Chrome. There is no Workday Chrome extension.
+   - After a successful landing, remember that Workday is signed in. Next search in this or a later chat: open the same URL first and treat an already-loaded job list as signed in.
+
+   Never ask the student to paste ASURITE or a password in iMessage.
 
 4. **Search.** Read `references/workday-asu.md` before clicking. Filter Job Family to Student Employee. Use the page's own search box for keywords or a JR number — not the browser find command. Open enough result rows to cover the current list (often 100+). For each posting capture JR number, title, campus, posting date, job profile, funding (FWS vs none), listed pay if any, and whether it needs a cover letter.
 

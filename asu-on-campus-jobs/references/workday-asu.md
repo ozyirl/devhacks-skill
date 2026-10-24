@@ -4,6 +4,10 @@ Listing (student must be signed in):
 
 https://www.myworkday.com/asu/d/task/1422$3898.htmld
 
+## Session (do not re-login every time)
+
+Cubbie's cloud browser keeps this student's myworkday.com / ASU CAS cookies after the first Take control. Open the Find Student Jobs URL again on later requests. If the job list is visible, skip login. If only a "Verify you are human" box is showing, that is Cloudflare on the cloud IP — Take control for the checkbox, not a full password+Duo unless CAS actually appears. Cookies from the student's personal Chrome (including any Canvas extension) are a different browser and do not apply here.
+
 ## Search
 
 - Type keywords or a JR number in Workday's own search on that page (left-side Find Student Jobs box). Browser-page find can miss titles that are not in the visible chunk.
