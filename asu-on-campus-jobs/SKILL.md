@@ -33,19 +33,17 @@ Browser (Workday), files (resume and cover letter the student sends), memory (fi
 
 2. **Resume.** Use the resume file the student just sent. If none is in this chat, ask them to send the PDF. Keep it for this search. Skip Workday's first Quick Apply parse box later; attach this file on the Resume/CV step.
 
-3. **Open Workday** in Cubbie's browser (same persistent browser for this student):
+3. **Get the job list.** ASU Workday sits behind Cloudflare on `weblogin.asu.edu`. Cubbie's cloud browser is almost always bounced (`__cf_chl`, "Just a moment...", CAS with no login form). Do not loop Take control.
+
+   **Default (student's own Chrome):** they are already signed in there. Text them to open
    https://www.myworkday.com/asu/d/task/1422$3898.htmld
+   filter **Student Employee** and their campus, then send screenshots and/or a copy-paste of rows (title, JR, campus, posting date). Read those files. Do not ask for a password.
 
-   Sign-in is once per saved session, not every text. Cubbie already keeps this site's login on the student's cloud browser, the same way a connected account is reused.
+   **Only if Cubbie's browser already shows Find Student Jobs** (job rows, no CAS, no `__cf_chl`): scrape that page. Do not reload.
 
-   - If **Find Student Jobs** is already on screen (search box and job rows): scrape it. Do not send a login card. Do not ask for Duo.
-   - If the page is only **Verify you are human** / Cloudflare: send Take control for that checkbox only. After they return control, continue. Do not ask them to type a password if the ASURITE form is not showing.
-   - If ASU CAS or Duo is showing: send Take control until Find Student Jobs is visible. Cubbie cannot skip Duo and cannot copy cookies from the student's own Chrome. There is no Workday Chrome extension.
-   - After a successful landing, remember that Workday is signed in. Next search in this or a later chat: open the same URL first and treat an already-loaded job list as signed in.
+   If Cubbie's browser URL contains `weblogin.asu.edu`, `__cf_chl`, or "Just a moment": stop. Tell them to Cancel the cloud browser and send screenshots from their Chrome.
 
-   Never ask the student to paste ASURITE or a password in iMessage.
-
-4. **Search.** Read `references/workday-asu.md` before clicking. Filter Job Family to Student Employee. Use the page's own search box for keywords or a JR number — not the browser find command. Open enough result rows to cover the current list (often 100+). For each posting capture JR number, title, campus, posting date, job profile, funding (FWS vs none), listed pay if any, and whether it needs a cover letter.
+4. **Search / capture.** From screenshots, paste, or a live job list, record JR, title, campus, posting date, job profile, funding (FWS vs none), listed pay if any, cover letter required. Read `references/workday-asu.md`. If they only sent the first screen, ask for more screenshots until the visible list is covered or they say that's all.
 
 5. **Match.** From this Skill folder, write the captured jobs to a temp JSON file and run:
 
@@ -58,10 +56,13 @@ Browser (Workday), files (resume and cover letter the student sends), memory (fi
 6. **Shortlist.** Text at most three matches (JR, title, campus, pay or worker scale, one-line why it fits). If more than five matched, also send a one-page PDF of the rest. If none matched, say so in one line and offer to loosen pay or keywords. Do not apply yet.
 
 7. **Apply one job.** Ask: `Apply to <title> <JR>?` Wait for yes. Never apply to the whole list in one shot.
-   After yes, open that posting from Find Student Jobs by typing the JR in the left search box (do not paste a raw `inst/15$158872/...` URL in a new tab).
-   Fill Quick Apply from the resume. Skip the auto-parse resume box. Attach the student's PDF on Resume/CV. If the posting requires a cover letter, draft one, show it, and attach only after they approve.
-   Show To / job / files that will go in, then ask `Submit this application?`
-   Click Submit only after that second yes. If a control will not click, or Duo appears again, hand the browser to the student with the exact remaining step. Remember the JR as applied.
+
+   Cubbie does not Submit in the cloud browser (Cloudflare). After yes:
+   - Draft the application answers from the resume. If a cover letter is required, draft it and wait for approval.
+   - Text numbered steps for **their** Chrome: Find Student Jobs → type the JR in Workday's search box (not a raw `inst/15$158872` URL) → skip the first Quick Apply parse box → attach the resume PDF on Resume/CV → paste the approved cover letter if any → they tap Submit.
+   - Remember the JR as applied only after they say they submitted.
+
+   If Cubbie's browser somehow already has that posting open with no CAS, fill the form, then ask `Submit this application?` and click Submit only after that yes.
 
 8. **Weekly check-in.** After the first successful search, offer a weekly text for new matching posts. Create it only after they pick a time.
 
@@ -71,7 +72,8 @@ Short, plain text, no Markdown. Lead with the number of matches. Put each Workda
 
 ## When something fails
 
-- Find Student Jobs will not load, or login/Duo fails: tell them to finish ASU sign-in in the browser Cubbie handed over. Do not guess jobs.
+- Cloudflare / CAS / `__cf_chl` / "Just a moment" in Cubbie's browser: one line, then ask for screenshots from their Chrome. Do not send another Take control card.
+- Find Student Jobs will not load: same screenshot path. Do not guess jobs.
 - Search widgets will not click: stop applying. Text up to three JR titles and say they can open Find Student Jobs and search that JR.
 - `match_jobs.py` exit 2: the jobs file was empty or unreadable. Capture the list again.
 - Nothing matches: one line, then offer a wider pay band or fewer keywords.

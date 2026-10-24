@@ -4,9 +4,9 @@ Listing (student must be signed in):
 
 https://www.myworkday.com/asu/d/task/1422$3898.htmld
 
-## Session (do not re-login every time)
+## Session
 
-Cubbie's cloud browser keeps this student's myworkday.com / ASU CAS cookies after the first Take control. Open the Find Student Jobs URL again on later requests. If the job list is visible, skip login. If only a "Verify you are human" box is showing, that is Cloudflare on the cloud IP — Take control for the checkbox, not a full password+Duo unless CAS actually appears. Cookies from the student's personal Chrome (including any Canvas extension) are a different browser and do not apply here.
+ASU CAS (`weblogin.asu.edu`) sits behind Cloudflare. Cubbie's cloud browser is sent to `__cf_chl` / "Just a moment..." and then bounced back to CAS even after Take control. Treat that as a hard stop. The working session is the student's own Chrome, where they already signed in. Cubbie reads screenshots or copied rows from that tab. Cubbie's cloud browser is only useful if Find Student Jobs is already showing job rows with no CAS redirect.
 
 ## Search
 
