@@ -1,0 +1,22 @@
+{
+  "title": "Sample: Cell Biology Review",
+  "intro": "Welcome to your Commute Cram for cell biology. Two quick parts, a few questions, and you're done before your stop.",
+  "sections": [
+    {
+      "heading": "Mitochondria",
+      "explain": "Mitochondria run cellular respiration. They turn the energy in glucose into ATP, the molecule cells spend for energy. They even have their own small loop of DNA.",
+      "questions": [
+        {"q": "What molecule do mitochondria make that cells use for energy?", "a": "ATP."}
+      ]
+    },
+    {
+      "heading": "Cell membranes",
+      "explain": "The cell membrane is a phospholipid bilayer. The heads love water and face out, the tails avoid water and face in, and proteins float in between to move things across.",
+      "questions": [
+        {"q": "Which part of a phospholipid faces the water?", "a": "The head. It's hydrophilic."},
+        {"q": "What is the membrane's structure called?", "a": "A phospholipid bilayer."}
+      ]
+    }
+  ],
+  "outro": "Nice work. That's the review. You've got this."
+}
