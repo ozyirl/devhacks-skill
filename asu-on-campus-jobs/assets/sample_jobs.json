@@ -1,0 +1,61 @@
+{
+  "jobs": [
+    {
+      "jr": "JR123176",
+      "title": "Information Systems Grader",
+      "campus": "Tempe",
+      "hybrid": true,
+      "job_profile": "Student Worker III",
+      "worker_scale": "III",
+      "funding": "No Federal Funding",
+      "posting_date": "2026-10-23"
+    },
+    {
+      "jr": "JR128665",
+      "title": "Piano Competition Coordinator",
+      "campus": "Tempe",
+      "job_profile": "Student Worker II",
+      "worker_scale": "II",
+      "funding": "No Federal Funding",
+      "posting_date": "2026-10-23"
+    },
+    {
+      "jr": "JR128632",
+      "title": "Office Assistant",
+      "campus": "West",
+      "job_profile": "Student Worker II",
+      "worker_scale": "II",
+      "funding": "No Federal Funding",
+      "posting_date": "2026-10-23"
+    },
+    {
+      "jr": "JR128521",
+      "title": "Front Office Aide",
+      "campus": "Tempe",
+      "job_profile": "Student Worker I",
+      "worker_scale": "I",
+      "funding": "Federal Work Study 70/30% ASU",
+      "posting_date": "2026-10-23"
+    },
+    {
+      "jr": "JR128422",
+      "title": "Laboratory Aide",
+      "campus": "Tempe",
+      "job_profile": "Student Worker II",
+      "worker_scale": "II",
+      "funding": "No Federal Funding",
+      "posting_date": "2026-10-23"
+    },
+    {
+      "jr": "JR124070",
+      "title": "SCAI Grader",
+      "campus": "Tempe",
+      "job_profile": "Student Worker III",
+      "worker_scale": "III",
+      "pay_min": 16.0,
+      "pay_max": 18.0,
+      "funding": "No Federal Funding",
+      "posting_date": "2026-10-20"
+    }
+  ]
+}
