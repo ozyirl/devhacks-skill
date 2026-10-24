@@ -1,20 +1,34 @@
 # ASU Workday — Find Student Jobs
 
-Listing (student's own browser, already signed in):
+Student hourly listing (student's own browser, already signed in):
 
 https://www.myworkday.com/asu/d/task/1422$3898.htmld
 
-Cubbie never opens this URL. Cloudflare on `weblogin.asu.edu` blocks Cubbie's cloud browser (`__cf_chl`, "Just a moment..."). Listings in this Skill come from `assets/live_jobs.json`.
+Cubbie never opens this URL. Cloudflare on `weblogin.asu.edu` blocks Cubbie's cloud browser (`__cf_chl`, "Just a moment...").
 
-## Refresh the index (laptop, not Cubbie)
+## Live feed Cubbie downloads
 
-A signed-in Workday scrape is saved as CSV (JR, title, location, profile, funding, pay). Convert and commit:
+https://raw.githubusercontent.com/ozyirl/devhacks-skill/on-campus-jobs-skill/asu-on-campus-jobs/assets/live_jobs.json
+
+`scripts/match_jobs.py` fetches that URL on every search. The copy in `assets/live_jobs.json` is only a fallback if GitHub is unreachable.
+
+## Refresh the feed (laptop, not Cubbie)
+
+From the repo root, on a Mac whose Chrome can open Find Student Jobs:
 
 ```bash
-python3 scripts/dump_jobs.py --from-csv /path/to/all-student-jobs.csv
+python3 tools/publish_jobs/publish.py --wait-login --push
 ```
 
-Then push this Skill folder so Cubbie's next install sees a new `as of` date.
+That opens a dedicated Chrome profile, waits if Duo/login is showing, walks the board, writes `asu-on-campus-jobs/assets/live_jobs.json`, and pushes. Random Skill installers never run this. They only `curl` the raw URL.
+
+CSV from an older scrape can still be converted:
+
+```bash
+python3 scripts/dump_jobs.py --from-csv /path/to/all-student-jobs.csv --as-of YYYY-MM-DD
+```
+
+Do not put manager names, resumes, or Workday form answers in the JSON.
 
 ## Search (student's Workday)
 
@@ -35,6 +49,10 @@ $16–17 usually fits Worker III.
 ## Funding / F-1
 
 "Federal Work Study" / "70/30% ASU" / "America Reads" is FWS. "No Federal Funding" is the usual hourly job. Skip FWS when the student asked.
+
+## Campuses
+
+Workday labels: Tempe, Downtown Phoenix, West, Polytechnic, plus off-campus rows. "Downtown" in chat means Downtown Phoenix.
 
 ## Apply (student's Workday)
 

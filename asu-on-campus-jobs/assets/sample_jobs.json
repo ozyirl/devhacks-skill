@@ -1,5 +1,19 @@
 {
+  "as_of": "2026-10-24",
+  "status": "ok",
   "jobs": [
+    {
+      "jr": "JR129001",
+      "title": "Front Desk Assistant",
+      "campus": "Downtown Phoenix",
+      "hybrid": false,
+      "job_profile": "Student Worker II",
+      "worker_scale": "II",
+      "funding": "No Federal Funding",
+      "pay_min": 15.1,
+      "pay_max": 16.0,
+      "summary": "Greet visitors at the downtown campus front desk."
+    },
     {
       "jr": "JR123176",
       "title": "Information Systems Grader",

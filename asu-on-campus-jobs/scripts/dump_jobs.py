@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Build assets/live_jobs.json from an OJC/Workday CSV dump.
 
-Run on a machine that already has a student-jobs CSV (from a signed-in
-Workday scrape). Cubbie reads the JSON from the cloned Skill; it does
-not log into Workday.
+Prefer tools/publish_jobs/publish.py for a live scrape. This converter
+is for an existing CSV. Cubbie downloads the pushed JSON from GitHub.
 
   python3 scripts/dump_jobs.py --from-csv path/to/all-student-jobs.csv
 """
@@ -44,6 +43,9 @@ def row_to_job(row: dict) -> dict:
     sm = SCALE.search(profile)
     lo, hi = parse_pay(row.get("pay") or "")
     loc = campus_of(row.get("location") or "")
+    summary = (row.get("hours_schedule") or row.get("description") or "").strip()
+    if len(summary) > 800:
+        summary = summary[:797] + "..."
     job = {
         "jr": (row.get("id") or "").strip(),
         "title": (row.get("title") or "").strip(),
@@ -56,6 +58,8 @@ def row_to_job(row: dict) -> dict:
         "posting_end_date": (row.get("posting_end_date") or "").strip(),
         "pay_text": (row.get("pay") or "").strip(),
     }
+    if summary:
+        job["summary"] = summary
     if lo is not None:
         job["pay_min"] = lo
     if hi is not None:
@@ -78,6 +82,7 @@ def main() -> None:
     payload = {
         "as_of": args.as_of,
         "source": src.name,
+        "status": "ok",
         "count": len(jobs),
         "jobs": jobs,
     }
