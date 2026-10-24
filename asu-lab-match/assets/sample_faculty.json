@@ -1,0 +1,46 @@
+[
+  {
+    "_meta": {"id": "sample1"},
+    "asurite_id": {"raw": "sample1"},
+    "eid": {"raw": "0000001"},
+    "display_name": {"raw": "Sample Professor Ada Rivera"},
+    "primary_title": {"raw": ["Assistant Professor"]},
+    "primary_department": {"raw": "School of Computing and Augmented Intelligence"},
+    "departments": {"raw": ["School of Computing and Augmented Intelligence"]},
+    "primary_job_campus": {"raw": ["TEMPE"]},
+    "email_address": {"raw": "sample1@example.edu"},
+    "expertise_areas": {"raw": ["Machine Learning", "Health Informatics"]},
+    "research_interests": {"raw": "<p>Machine learning for early warning of patient deterioration in hospitals, using Python and clinical time series.</p>"},
+    "short_bio": {"raw": "Made-up sample profile for testing."},
+    "simplified_empl_classes": {"raw": ["Faculty"]}
+  },
+  {
+    "_meta": {"id": "sample2"},
+    "asurite_id": {"raw": "sample2"},
+    "eid": {"raw": "0000002"},
+    "display_name": {"raw": "Sample Professor Ben Okafor"},
+    "primary_title": {"raw": ["Associate Professor"]},
+    "primary_department": {"raw": "School of Life Sciences"},
+    "departments": {"raw": ["School of Life Sciences"]},
+    "primary_job_campus": {"raw": ["TEMPE"]},
+    "email_address": {"raw": "sample2@example.edu"},
+    "expertise_areas": {"raw": ["Ecology", "Climate Change"]},
+    "research_interests": {"raw": "<p>How desert plants respond to heat waves.</p>"},
+    "short_bio": {"raw": "Made-up sample profile for testing."},
+    "simplified_empl_classes": {"raw": ["Faculty"]}
+  },
+  {
+    "_meta": {"id": "sample3"},
+    "asurite_id": {"raw": "sample3"},
+    "eid": {"raw": "0000003"},
+    "display_name": {"raw": "Sample Learning Specialist"},
+    "primary_title": {"raw": ["Graduate Teaching Associate"]},
+    "primary_department": {"raw": "School of Computing and Augmented Intelligence"},
+    "departments": {"raw": ["School of Computing and Augmented Intelligence"]},
+    "primary_job_campus": {"raw": ["TEMPE"]},
+    "email_address": {"raw": "sample3@example.edu"},
+    "expertise_areas": {"raw": ["Machine Learning"]},
+    "research_interests": {"raw": "Machine learning."},
+    "simplified_empl_classes": {"raw": ["Graduate Assistant/Associate"]}
+  }
+]
