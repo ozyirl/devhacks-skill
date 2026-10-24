@@ -1,0 +1,23 @@
+{
+  "title": "Sample: Cells in 60 Seconds",
+  "course": "BIO 181",
+  "intro": "Cells in sixty seconds. Here's what will be on the exam.",
+  "scenes": [
+    {
+      "heading": "Mitochondria",
+      "points": ["Make ATP", "Run cellular respiration", "Have their own DNA"],
+      "narration": "Mitochondria make ATP, the energy cells spend. They do it through cellular respiration, and they even carry their own small loop of DNA."
+    },
+    {
+      "heading": "Cell membrane",
+      "points": ["Phospholipid bilayer", "Heads face water", "Proteins move things across"],
+      "narration": "The membrane is a phospholipid bilayer. Water-loving heads face out, tails hide inside, and proteins carry things across."
+    },
+    {
+      "heading": "Ribosomes",
+      "points": ["Build proteins", "Read mRNA"],
+      "narration": "Ribosomes build proteins by reading messenger RNA, one codon at a time."
+    }
+  ],
+  "outro": "Save this for exam night."
+}
