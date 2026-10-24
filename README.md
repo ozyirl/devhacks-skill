@@ -1,9 +1,17 @@
 # devhacks-skill
 
-Cubbie Hackathon Track 1 skill: ASU on-campus Workday jobs.
+Cubbie Hackathon Track 1: ASU on-campus student hourly jobs.
 
-Install on Cubbie by texting the skill folder link for this branch:
+Cubbie does not log into Workday. It matches `asu-on-campus-jobs/assets/live_jobs.json` and drafts an application. The student Submits in their own Workday.
+
+Install: text Cubbie this folder, then reply yes.
 
 https://github.com/ozyirl/devhacks-skill/tree/on-campus-jobs-skill/asu-on-campus-jobs
 
-The repository must be public for Cubbie to clone it without a git login.
+Refresh the index after a signed-in Workday scrape:
+
+```bash
+python3 asu-on-campus-jobs/scripts/dump_jobs.py \
+  --from-csv /path/to/all-student-jobs.csv \
+  --as-of 2026-10-13
+```

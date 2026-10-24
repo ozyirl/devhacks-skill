@@ -15,7 +15,8 @@ SCALE_BANDS = {
     "i": (14.7, 15.4),
     "ii": (15.1, 16.57),
     "iii": (15.97, 18.97),
-    "iv": (17.75, 99.0),
+    "iv": (17.75, 30.0),
+    "v": (20.0, 50.0),
 }
 
 TECH = (
@@ -39,15 +40,20 @@ def die(code: int, msg: str) -> None:
     raise SystemExit(code)
 
 
-def load_jobs(path: Path) -> list[dict]:
+def load_jobs(path: Path) -> tuple[list[dict], str]:
     try:
         data = json.loads(path.read_text())
     except (OSError, json.JSONDecodeError) as exc:
         die(2, f"could not read jobs file: {exc}")
-    jobs = data.get("jobs", data) if isinstance(data, dict) else data
+    as_of = ""
+    if isinstance(data, dict):
+        as_of = str(data.get("as_of") or "")
+        jobs = data.get("jobs", data)
+    else:
+        jobs = data
     if not isinstance(jobs, list) or not jobs:
         die(2, "jobs file was empty")
-    return jobs
+    return jobs, as_of
 
 
 def pay_window(job: dict) -> tuple[float | None, float | None]:
@@ -135,7 +141,9 @@ def main() -> None:
     if jobs_path is None:
         die(2, "pass --jobs or --sample")
 
-    jobs = load_jobs(jobs_path)
+    jobs, as_of = load_jobs(jobs_path)
+    if as_of:
+        print(f"as of {as_of}")
     keywords = [k.strip() for k in re.split(r"[|,/]+", args.keywords) if k.strip()]
     if not keywords:
         keywords = ["tech", "grader", "software", "information systems"]
