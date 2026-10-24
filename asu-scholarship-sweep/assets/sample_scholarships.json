@@ -1,0 +1,32 @@
+{
+  "sample-engineering-merit-award": {
+    "name": "Sample Engineering Merit Award",
+    "amount": 2000,
+    "deadline": "2026-11-15",
+    "source": "asu",
+    "url": "",
+    "prompt": "Describe a project you are proud of and what you learned (500 words).",
+    "requirements": "Engineering major, 3.0 GPA",
+    "status": "drafting"
+  },
+  "sample-first-gen-scholars-fund": {
+    "name": "Sample First-Gen Scholars Fund",
+    "amount": 1500,
+    "deadline": "2026-11-01",
+    "source": "asu",
+    "url": "",
+    "prompt": "What does being the first in your family to attend college mean to you? (300 words)",
+    "requirements": "First-generation college student",
+    "status": "found"
+  },
+  "sample-community-service-grant": {
+    "name": "Sample Community Service Grant",
+    "amount": 500,
+    "deadline": "2026-10-10",
+    "source": "outside",
+    "url": "https://example.com/sample-scholarship",
+    "prompt": "",
+    "requirements": "Any major",
+    "status": "submitted"
+  }
+}
